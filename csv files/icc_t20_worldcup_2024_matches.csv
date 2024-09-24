@@ -1,0 +1,56 @@
+Match_Id,Team 1,Team 2,Group,Venue,Team 1 Runs,Team 1 Wickets,Team 1 Overs,Team 2 Runs,Team 2 Wickets,Team 2 Overs,Winner,Margin
+1,CANADA,UNITED STATES,Group A,"Dallas, Grand Prairie Stadium",194,5,20,197,3,17.4,United States,by 7 wkts
+2,PAPUA NEW GUINEA,WEST INDIES,Group C,"Guyana, Providence Stadium",136,8,20,137,5,19,West Indies,by 5 wkts
+3,OMAN,NAMIBIA,Group B,"Bridgetown, Barbados, Kensington Oval",109,10,19.4,109,6,20,Match tied (Namibia,the super over)
+4,SRI LANKA,SOUTH AFRICA,Group D,"New York, Nassau County International Cricket Stadium",77,10,19.1,80,4,16.2,South Africa,by 6 wkts
+5,AFGHANISTAN,UGANDA,Group C,"Guyana, Providence Stadium",183,5,20,58,10,16,Afghanistan,by 125 runs
+6,SCOTLAND,ENGLAND,Group B,"Bridgetown, Barbados, Kensington Oval",90,0,10,0,0,0,No Result,NA
+7,NEPAL,NETHERLANDS,Group D,"Dallas, Grand Prairie Stadium",106,10,19.2,109,4,18.4,Netherlands,by 6 wkts
+8,IRELAND,INDIA,Group A,"New York, Nassau County International Cricket Stadium",96,10,16,97,2,12.2,India,by 8 wkts
+9,PAPUA NEW GUINEA,UGANDA,Group C,"Guyana, Providence Stadium",77,10,19.1,78,7,18.2,Uganda,by 3 wkts
+10,AUSTRALIA,OMAN,Group B,"Bridgetown, Barbados, Kensington Oval",164,5,20,125,9,20,Australia,by 39 runs
+11,PAKISTAN,UNITED STATES,Group A,"Dallas, Grand Prairie Stadium",159,7,20,159,3,20,Match tied (United States,the super over)
+12,NAMIBIA,SCOTLAND,Group B,"Bridgetown, Barbados, Kensington Oval",155,9,20,157,5,18.3,Scotland,by 5 wkts
+13,CANADA,IRELAND,Group A,"New York, Nassau County International Cricket Stadium",137,7,20,125,7,20,Canada,by 12 runs
+14,AFGHANISTAN,NEW ZEALAND,Group C,"Guyana, Providence Stadium",159,6,20,75,10,15.2,Afghanistan,by 84 runs
+15,SRI LANKA,BANGLADESH,Group D,"Dallas, Grand Prairie Stadium",124,9,20,125,8,19,Bangladesh,by 2 wkts
+16,NETHERLANDS,SOUTH AFRICA,Group D,"New York, Nassau County International Cricket Stadium",103,9,20,106,6,18.5,South Africa,by 4 wkts
+17,AUSTRALIA,ENGLAND,Group B,"Bridgetown, Barbados, Kensington Oval",201,7,20,165,6,20,Australia,by 36 runs
+18,WEST INDIES,UGANDA,Group C,"Guyana, Providence Stadium",173,5,20,39,10,12,West Indies,by 134 runs
+19,INDIA,PAKISTAN,Group A,"New York, Nassau County International Cricket Stadium",119,10,19,113,7,20,India,by 6 runs
+20,OMAN,SCOTLAND,Group B,"North Sound, Antigua, Sir Vivian Richards Stadium",150,7,20,153,3,13.1,Scotland,by 7 wkts
+21,SOUTH AFRICA,BANGLADESH,Group D,"New York, Nassau County International Cricket Stadium",113,6,20,109,7,20,South Africa,by 4 runs
+22,CANADA,PAKISTAN,Group A,"New York, Nassau County International Cricket Stadium",106,7,20,107,3,17.3,Pakistan,by 7 wkts
+23,SRI LANKA,NEPAL,Group D,"Lauderhill, Florida, Central Broward Regional Park Stadium Turf Ground",NA,NA,NA,NA,NA,NA,Match abandoned due to rain,NA
+24,NAMIBIA,AUSTRALIA,Group B,"North Sound, Antigua, Sir Vivian Richards Stadium",72,10,17,74,1,5.4,Australia,by 9 wkts
+25,UNITED STATES,INDIA,Group A,"New York, Nassau County International Cricket Stadium",110,8,20,111,3,18.2,India,by 7 wkts
+26,WEST INDIES,NEW ZEALAND,Group C,"Tarouba, Trinidad, Brian Lara Stadium",149,9,20,136,9,20,West Indies,by 13 runs
+27,BANGLADESH,NETHERLANDS,Group D,"Kingstown, St Vincent, Arnos Vale Ground",159,5,20,134,8,20,Bangladesh,by 25 runs
+28,OMAN,ENGLAND,Group B,"North Sound, Antigua, Sir Vivian Richards Stadium",47,10,13.2,50,2,3.1,England,by 8 wkts
+29,PAPUA NEW GUINEA,AFGHANISTAN,Group C,"Tarouba, Trinidad, Brian Lara Stadium",95,10,19.5,101,3,15.1,Afghanistan,by 7 wkts
+30,UNITED STATES,IRELAND,Group A,"Lauderhill, Florida, Central Broward Regional Park Stadium Turf Ground",NA,NA,NA,NA,NA,NA,Match abandoned due to rain,NA
+31,SOUTH AFRICA,NEPAL,Group D,"Kingstown, St Vincent, Arnos Vale Ground",115,7,20,114,7,20,South Africa,by 1 run
+32,UGANDA,NEW ZEALAND,Group C,"Tarouba, Trinidad, Brian Lara Stadium",40,10,18.4,41,1,5.2,New Zealand,by 9 wkts
+33,INDIA,CANADA,Group A,"Lauderhill, Florida, Central Broward Regional Park Stadium Turf Ground",NA,NA,NA,NA,NA,NA,Match abandoned due to rain,NA
+34,ENGLAND,NAMIBIA,Group B,"North Sound, Antigua, Sir Vivian Richards Stadium",122,5,10,84,3,10,England,by 41 runs (DLS method)
+35,SCOTLAND,AUSTRALIA,Group B,"Gros Islet, St Lucia, Daren Sammy National Cricket Stadium",180,5,20,186,5,19.4,Australia,by 5 wkts
+36,IRELAND,PAKISTAN,Group A,"Lauderhill, Florida, Central Broward Regional Park Stadium Turf Ground",106,9,20,111,7,18.5,Pakistan,by 3 wkts
+37,BANGLADESH,NEPAL,Group D,"Kingstown, St Vincent, Arnos Vale Ground",106,10,19.3,85,10,19.2,Bangladesh,by 21 runs
+38,SRI LANKA,NETHERLANDS,Group D,"Gros Islet, St Lucia, Daren Sammy National Cricket Stadium",201,6,20,118,10,16.4,Sri Lanka,by 83 runs
+39,PAPUA NEW GUINEA,NEW ZEALAND,Group C,"Tarouba, Trinidad, Brian Lara Stadium",78,10,19.4,79,3,12.2,New Zealand,by 7 wkts
+40,WEST INDIES,AFGHANISTAN,Group C,"Gros Islet, St Lucia, Daren Sammy National Cricket Stadium",218,5,20,114,10,16.2,West Indies,by 104 runs
+41,SOUTH AFRICA,UNITED STATES,Super 8 Group 2,"North Sound, Antigua, Sir Vivian Richards Stadium",194,4,20,176,6,20,South Africa,by 18 runs
+42,WEST INDIES,ENGLAND,Super 8 Group 2,"Gros Islet, St Lucia, Daren Sammy National Cricket Stadium",180,4,20,181,2,17.3,England,by 8 wkts
+43,INDIA,AFGHANISTAN,Super 8 Group 1,"Bridgetown, Barbados, Kensington Oval",181,8,20,134,10,20,India,by 47 runs
+44,BANGLADESH,AUSTRALIA,Super 8 Group 1,"North Sound, Antigua, Sir Vivian Richards Stadium",140,8,20,100,2,11.2,Australia,by 28 runs (DLS Method)
+45,SOUTH AFRICA,ENGLAND,Super 8 Group 2,"Gros Islet, St Lucia, Daren Sammy National Cricket Stadium",163,6,20,156,6,20,South Africa,by 7 runs
+46,UNITED STATES,WEST INDIES,Super 8 Group 2,"Bridgetown, Barbados, Kensington Oval",128,10,19.5,130,1,10.5,West Indies,by 9 wkts
+47,INDIA,BANGLADESH,Super 8 Group 1,"North Sound, Antigua, Sir Vivian Richards Stadium",196,5,20,146,8,20,India,by 50 runs
+48,AFGHANISTAN,AUSTRALIA,Super 8 Group 1,"Kingstown, St Vincent, Arnos Vale Ground",148,6,20,127,10,19.2,Afghanistan,by 21 runs
+49,UNITED STATES,ENGLAND,Super 8 Group 2,"Bridgetown, Barbados, Kensington Oval",115,10,18.5,117,0,9.4,England,by 10 wkts
+50,WEST INDIES,SOUTH AFRICA,Super 8 Group 2,"North Sound, Antigua, Sir Vivian Richards Stadium",135,8,20,124,7,16.1,South Africa,by 3 wkts - 2nd inns reduced to 17 overs - Target 123 (DLS method)
+51,INDIA,AUSTRALIA,Super 8 Group 1,"Gros Islet, St Lucia, Daren Sammy National Cricket Stadium",205,5,20,181,7,20,India,by 24 runs
+52,AFGHANISTAN,BANGLADESH,Super 8 Group 1,"Kingstown, St Vincent, Arnos Vale Ground",115,5,20,105,10,17.5,Afghanistan,"by 8 runs (Match reduced to 19 Ovs due to rain, DLS Target 114)"
+53,AFGHANISTAN,SOUTH AFRICA,SEMI-FINALS,"Tarouba, Trinidad, Brian Lara Stadium",56,10,11.5,60,1,8.5,South Africa,by 9 wkts
+54,INDIA,ENGLAND,SEMI-FINALS,"Guyana, Providence Stadium",171,7,20,103,10,16.4,India,by 68 runs
+55,INDIA,SOUTH AFRICA,FINALS,"Bridgetown, Barbados, Kensington Oval",176,7,20,169,8,20,India,by 7 runs

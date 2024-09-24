@@ -1,0 +1,901 @@
+match_id,match,team,bat_pos,name,not_out,runs,balls,minutes,fours,sixes,strike_rate
+1,USA vs Canada,Canada,1,Aaron Johnson,Out,23,16,24,5,0,143.75
+1,USA vs Canada,Canada,2,Navneet Dhaliwal,Out,61,44,62,6,3,138.63
+1,USA vs Canada,Canada,3,Pargat Singh,Out,5,7,12,0,0,71.42
+1,USA vs Canada,Canada,4,Nicholas Kirton,Out,51,31,43,3,2,164.51
+1,USA vs Canada,Canada,5,Shreyas Movva,Not Out,32,16,29,2,2,200
+1,USA vs Canada,Canada,6,Dilpreet Bajwa,Out,11,5,5,1,1,220
+1,USA vs Canada,Canada,7,Dilon Heyliger,Not Out,1,1,4,0,0,100
+1,USA vs Canada,United States Of America,1,Steven Taylor,Out,0,2,2,0,0,0
+1,USA vs Canada,United States Of America,2,Monank Patel,Out,16,16,33,2,0,100
+1,USA vs Canada,United States Of America,3,Andries Gous,Out,65,46,76,7,3,141.3
+1,USA vs Canada,United States Of America,4,Aaron Jones,Not Out,94,40,56,4,10,235
+1,USA vs Canada,United States Of America,5,Corey Anderson,Not Out,3,5,8,0,0,60
+2,West Indies vs PNG,Papua New Guinea,1,Tony Ura,Out,2,5,7,0,0,40
+2,West Indies vs PNG,Papua New Guinea,2,Assad Vala,Out,21,22,26,2,1,95.45
+2,West Indies vs PNG,Papua New Guinea,3,Lega Siaka,Out,1,2,2,0,0,50
+2,West Indies vs PNG,Papua New Guinea,4,Sese Bau,Out,50,43,55,6,1,116.27
+2,West Indies vs PNG,Papua New Guinea,5,Hiri Hiri,Out,2,6,10,0,0,33.33
+2,West Indies vs PNG,Papua New Guinea,6,Charles Amini,Out,12,14,22,0,0,85.71
+2,West Indies vs PNG,Papua New Guinea,7,Kiplin Doriga,Not Out,27,18,23,3,0,150
+2,West Indies vs PNG,Papua New Guinea,8,Chad Soper,Out,10,9,10,1,0,111.11
+2,West Indies vs PNG,Papua New Guinea,9,Alei Nao,Out,0,0,2,0,0,-
+2,West Indies vs PNG,Papua New Guinea,10,Kabua Morea,Not Out,2,2,3,0,0,100
+2,West Indies vs PNG,West Indies,1,Brandon King,Out,34,29,44,7,0,117.24
+2,West Indies vs PNG,West Indies,2,Johnson Charles,Out,0,1,6,0,0,0
+2,West Indies vs PNG,West Indies,3,Nicholas Pooran,Out,27,27,30,1,2,100
+2,West Indies vs PNG,West Indies,4,Roston Chase,Not Out,42,27,39,4,2,155.55
+2,West Indies vs PNG,West Indies,5,Rovman Powell,Out,15,14,14,2,0,107.14
+2,West Indies vs PNG,West Indies,6,Sherfane Rutherford,Out,2,7,6,0,0,28.57
+2,West Indies vs PNG,West Indies,7,Andre Russell,Not Out,15,9,11,0,1,166.66
+3,Oman vs Namibia,Oman,1,Kashyap Prajapati,Out,0,1,1,0,0,0
+3,Oman vs Namibia,Oman,2,Naseem Khushi,Out,6,6,16,1,0,100
+3,Oman vs Namibia,Oman,3,Aqib Ilyas,Out,0,1,2,0,0,0
+3,Oman vs Namibia,Oman,4,Zeeshan Maqsood,Out,22,20,29,4,0,110
+3,Oman vs Namibia,Oman,5,Khalid Kail,Out,34,39,56,1,1,87.17
+3,Oman vs Namibia,Oman,6,Ayaan Khan,Out,15,21,16,0,1,71.42
+3,Oman vs Namibia,Oman,7,Mohammad Nadeem,Out,6,10,10,0,0,60
+3,Oman vs Namibia,Oman,8,Mehran Khan,Out,7,8,12,1,0,87.5
+3,Oman vs Namibia,Oman,9,Shakeel Ahmed,Out,11,9,13,2,0,122.22
+3,Oman vs Namibia,Oman,10,Kaleemullah,Out,2,3,4,0,0,66.66
+3,Oman vs Namibia,Oman,11,Bilal Khan,Not Out,1,1,5,0,0,100
+3,Oman vs Namibia,Namibia,1,Michael van Lingen,Out,0,2,1,0,0,0
+3,Oman vs Namibia,Namibia,2,Nikolaas Davin,Out,24,31,35,2,1,77.41
+3,Oman vs Namibia,Namibia,3,Jan Frylinck,Out,45,48,77,6,0,93.75
+3,Oman vs Namibia,Namibia,4,Gerhard Erasmus,Out,13,16,19,1,0,81.25
+3,Oman vs Namibia,Namibia,5,JJ Smit,Out,8,12,13,1,0,66.66
+3,Oman vs Namibia,Namibia,6,David Wiese,Not Out,9,8,15,0,1,112.5
+3,Oman vs Namibia,Namibia,7,Zane Green,Out,0,2,2,0,0,0
+3,Oman vs Namibia,Namibia,8,Malan Kruger,Not Out,1,1,3,0,0,100
+1,USA vs Canada,Canada,1,Aaron Johnson,Out,23,16,24,5,0,143.75
+1,USA vs Canada,Canada,2,Navneet Dhaliwal,Out,61,44,62,6,3,138.63
+1,USA vs Canada,Canada,3,Pargat Singh,Out,5,7,12,0,0,71.42
+1,USA vs Canada,Canada,4,Nicholas Kirton,Out,51,31,43,3,2,164.51
+1,USA vs Canada,Canada,5,Shreyas Movva,Not Out,32,16,29,2,2,200.00
+1,USA vs Canada,Canada,6,Dilpreet Bajwa,Out,11,5,5,1,1,220.00
+1,USA vs Canada,Canada,7,Dilon Heyliger,Not Out,1,1,4,0,0,100.00
+1,USA vs Canada,United States Of America,1,Steven Taylor,Out,0,2,2,0,0,0.00
+1,USA vs Canada,United States Of America,2,Monank Patel,Out,16,16,33,2,0,100.00
+1,USA vs Canada,United States Of America,3,Andries Gous,Out,65,46,76,7,3,141.30
+1,USA vs Canada,United States Of America,4,Aaron Jones,Not Out,94,40,56,4,10,235.00
+1,USA vs Canada,United States Of America,5,Corey Anderson,Not Out,3,5,8,0,0,60.00
+2,West Indies vs PNG,Papua New Guinea,1,Tony Ura,Out,2,5,7,0,0,40.00
+2,West Indies vs PNG,Papua New Guinea,2,Assad Vala,Out,21,22,26,2,1,95.45
+2,West Indies vs PNG,Papua New Guinea,3,Lega Siaka,Out,1,2,2,0,0,50.00
+2,West Indies vs PNG,Papua New Guinea,4,Sese Bau,Out,50,43,55,6,1,116.27
+2,West Indies vs PNG,Papua New Guinea,5,Hiri Hiri,Out,2,6,10,0,0,33.33
+2,West Indies vs PNG,Papua New Guinea,6,Charles Amini,Out,12,14,22,0,0,85.71
+2,West Indies vs PNG,Papua New Guinea,7,Kiplin Doriga,Not Out,27,18,23,3,0,150.00
+2,West Indies vs PNG,Papua New Guinea,8,Chad Soper,Out,10,9,10,1,0,111.11
+2,West Indies vs PNG,Papua New Guinea,9,Alei Nao,Out,0,0,2,0,0,-
+2,West Indies vs PNG,Papua New Guinea,10,Kabua Morea,Not Out,2,2,3,0,0,100.00
+2,West Indies vs PNG,West Indies,1,Brandon King,Out,34,29,44,7,0,117.24
+2,West Indies vs PNG,West Indies,2,Johnson Charles,Out,0,1,6,0,0,0.00
+2,West Indies vs PNG,West Indies,3,Nicholas Pooran,Out,27,27,30,1,2,100.00
+2,West Indies vs PNG,West Indies,4,Roston Chase,Not Out,42,27,39,4,2,155.55
+2,West Indies vs PNG,West Indies,5,Rovman Powell,Out,15,14,14,2,0,107.14
+2,West Indies vs PNG,West Indies,6,Sherfane Rutherford,Out,2,7,6,0,0,28.57
+2,West Indies vs PNG,West Indies,7,Andre Russell,Not Out,15,9,11,0,1,166.66
+3,Oman vs Namibia,Oman,1,Kashyap Prajapati,Out,0,1,1,0,0,0.00
+3,Oman vs Namibia,Oman,2,Naseem Khushi,Out,6,6,16,1,0,100.00
+3,Oman vs Namibia,Oman,3,Aqib Ilyas,Out,0,1,2,0,0,0.00
+3,Oman vs Namibia,Oman,4,Zeeshan Maqsood,Out,22,20,29,4,0,110.00
+3,Oman vs Namibia,Oman,5,Khalid Kail,Out,34,39,56,1,1,87.17
+3,Oman vs Namibia,Oman,6,Ayaan Khan,Out,15,21,16,0,1,71.42
+3,Oman vs Namibia,Oman,7,Mohammad Nadeem,Out,6,10,10,0,0,60.00
+3,Oman vs Namibia,Oman,8,Mehran Khan,Out,7,8,12,1,0,87.50
+3,Oman vs Namibia,Oman,9,Shakeel Ahmed,Out,11,9,13,2,0,122.22
+3,Oman vs Namibia,Oman,10,Kaleemullah,Out,2,3,4,0,0,66.66
+3,Oman vs Namibia,Oman,11,Bilal Khan,Not Out,1,1,5,0,0,100.00
+3,Oman vs Namibia,Namibia,1,Michael van Lingen,Out,0,2,1,0,0,0.00
+3,Oman vs Namibia,Namibia,2,Nikolaas Davin,Out,24,31,35,2,1,77.41
+3,Oman vs Namibia,Namibia,3,Jan Frylinck,Out,45,48,77,6,0,93.75
+3,Oman vs Namibia,Namibia,4,Gerhard Erasmus,Out,13,16,19,1,0,81.25
+3,Oman vs Namibia,Namibia,5,JJ Smit,Out,8,12,13,1,0,66.66
+3,Oman vs Namibia,Namibia,6,David Wiese,Not Out,9,8,15,0,1,112.50
+3,Oman vs Namibia,Namibia,7,Zane Green,Out,0,2,2,0,0,0.00
+3,Oman vs Namibia,Namibia,8,Malan Kruger,Not Out,1,1,3,0,0,100.00
+4,Sri Lanka vs South Africa,Sri Lanka,1,Pathum Nissanka,Out,3,8,15,0,0,37.50
+4,Sri Lanka vs South Africa,Sri Lanka,2,Kusal Mendis,Out,19,30,46,1,0,63.33
+4,Sri Lanka vs South Africa,Sri Lanka,3,Kamindu Mendis,Out,11,15,19,1,0,73.33
+4,Sri Lanka vs South Africa,Sri Lanka,4,Wanindu Hasaranga,Out,0,2,2,0,0,0.00
+4,Sri Lanka vs South Africa,Sri Lanka,5,Sadeera Samarawickrama,Out,0,1,1,0,0,0.00
+4,Sri Lanka vs South Africa,Sri Lanka,6,Charith Asalanka,Out,6,9,11,0,0,66.66
+4,Sri Lanka vs South Africa,Sri Lanka,7,Angelo Mathews,Out,16,16,24,0,2,100.00
+4,Sri Lanka vs South Africa,Sri Lanka,8,Dasun Shanaka,Out,9,10,13,0,1,90.00
+4,Sri Lanka vs South Africa,Sri Lanka,9,Maheesh Theekshana,Not Out,7,16,20,1,0,43.75
+4,Sri Lanka vs South Africa,Sri Lanka,10,Matheesha Pathirana,Out,0,4,8,0,0,0.00
+4,Sri Lanka vs South Africa,Sri Lanka,11,Nuwan Thushara,Out,0,4,7,0,0,0.00
+4,Sri Lanka vs South Africa,South Africa,1,Quinton de Kock,Out,20,27,54,0,1,74.07
+4,Sri Lanka vs South Africa,South Africa,2,Reeza Hendricks,Out,4,2,8,1,0,200.00
+4,Sri Lanka vs South Africa,South Africa,3,Aiden Markram,Out,12,14,14,0,1,85.71
+4,Sri Lanka vs South Africa,South Africa,4,Tristan Stubbs,Out,13,28,39,0,0,46.42
+4,Sri Lanka vs South Africa,South Africa,5,Heinrich Klaasen,Not Out,19,22,22,1,1,86.36
+4,Sri Lanka vs South Africa,South Africa,6,David Miller,Not Out,6,6,13,1,0,100.00
+5,Afghanistan vs Uganda,Afghanistan,1,Rahmanullah Gurbaz,Out,76,45,70,4,4,168.88
+5,Afghanistan vs Uganda,Afghanistan,2,Ibrahim Zadran,Out,70,46,66,9,1,152.17
+5,Afghanistan vs Uganda,Afghanistan,3,Najibullah Zadran,Out,2,3,8,0,0,66.66
+5,Afghanistan vs Uganda,Afghanistan,4,Mohammad Nabi,Not Out,14,16,23,0,0,87.50
+5,Afghanistan vs Uganda,Afghanistan,5,Gulbadin Naib,Out,4,5,6,0,0,80.00
+5,Afghanistan vs Uganda,Afghanistan,6,Azmatullah Omarzai,Out,5,5,9,0,0,100.00
+5,Afghanistan vs Uganda,Afghanistan,7,Rashid Khan,Not Out,2,1,1,0,0,200.00
+5,Afghanistan vs Uganda,Uganda,1,Ronak Patel,Out,4,2,1,1,0,200.00
+5,Afghanistan vs Uganda,Uganda,2,Simon Ssesazi,Out,4,4,9,1,0,100.00
+5,Afghanistan vs Uganda,Uganda,3,Roger Mukasa,Out,0,1,1,0,0,0.00
+5,Afghanistan vs Uganda,Uganda,4,Riazat Ali Shah,Out,11,34,56,0,0,32.35
+5,Afghanistan vs Uganda,Uganda,5,Dinesh Nakrani,Out,6,8,11,1,0,75.00
+5,Afghanistan vs Uganda,Uganda,6,Alpesh Ramjani,Out,0,2,1,0,0,0.00
+5,Afghanistan vs Uganda,Uganda,7,Robinson Obuya,Out,14,25,42,0,1,56.00
+5,Afghanistan vs Uganda,Uganda,8,Brian Masaba,Out,0,1,1,0,0,0.00
+5,Afghanistan vs Uganda,Uganda,9,Bilal Hassan,Out,8,16,18,1,0,50.00
+5,Afghanistan vs Uganda,Uganda,10,Cosmas Kyewuta,Not Out,2,2,15,0,0,100.00
+5,Afghanistan vs Uganda,Uganda,11,Henry Ssenyondo,Out,0,1,1,0,0,0.00
+6,Scotland vs England,Scotland,1,George Munsey,Not Out,41,31,46,4,2,132.25
+6,Scotland vs England,Scotland,2,Michael Jones,Not Out,45,30,46,4,2,150.00
+7,Nepal vs Netherlands,Nepal,1,Kushal Bhurtel,Out,7,10,14,1,0,70.00
+7,Nepal vs Netherlands,Nepal,2,Aasif Sheikh,Out,4,8,8,1,0,50.00
+7,Nepal vs Netherlands,Nepal,3,Anil Sah,Out,11,12,29,2,0,91.66
+7,Nepal vs Netherlands,Nepal,4,Rohit Paudel,Out,35,37,59,5,0,94.59
+7,Nepal vs Netherlands,Nepal,5,Kushal Malla,Out,9,9,8,1,0,100.00
+7,Nepal vs Netherlands,Nepal,6,Dipendra Singh Airee,Out,1,6,4,0,0,16.66
+7,Nepal vs Netherlands,Nepal,7,Sompal Kami,Out,0,5,10,0,0,0.00
+7,Nepal vs Netherlands,Nepal,8,Gulsan Jha,Out,14,15,28,0,1,93.33
+7,Nepal vs Netherlands,Nepal,9,Karan KC,Out,17,12,13,0,2,141.66
+7,Nepal vs Netherlands,Nepal,10,Sagar Dhakal,Not Out,0,1,3,0,0,0.00
+7,Nepal vs Netherlands,Nepal,11,Abinash Bohara,Out,0,1,1,0,0,0.00
+7,Nepal vs Netherlands,Netherlands,1,Michael Levitt,Out,1,3,6,0,0,33.33
+7,Nepal vs Netherlands,Netherlands,2,Max ODowd,Not Out,54,48,86,4,1,112.50
+7,Nepal vs Netherlands,Netherlands,3,Vikramjit Singh,Out,22,28,32,4,0,78.57
+7,Nepal vs Netherlands,Netherlands,4,Sybrand Engelbrecht,Out,14,16,18,1,0,87.50
+7,Nepal vs Netherlands,Netherlands,5,Scott Edwards,Out,5,8,11,0,0,62.50
+7,Nepal vs Netherlands,Netherlands,6,Bas de Leede,Not Out,11,10,13,1,0,110.00
+8,Ireland vs India,Ireland,1,Andy Balbirnie,Out,5,10,,1,0,50.00
+8,Ireland vs India,Ireland,2,Paul Stirling,Out,2,6,,0,0,33.33
+8,Ireland vs India,Ireland,3,Lorcan Tucker,Out,10,13,,2,0,76.92
+8,Ireland vs India,Ireland,4,Harry Tector,Out,4,16,,0,0,25.00
+8,Ireland vs India,Ireland,5,Curtis Campher,Out,12,8,,1,1,150.00
+8,Ireland vs India,Ireland,6,George Dockrell,Out,3,5,,0,0,60.00
+8,Ireland vs India,Ireland,7,Gareth Delany,Out,26,14,,2,2,185.71
+8,Ireland vs India,Ireland,8,Mark Adair,Out,3,2,,0,0,150.00
+8,Ireland vs India,Ireland,9,Barry McCarthy,Out,0,6,,0,0,0.00
+8,Ireland vs India,Ireland,10,Josh Little,Out,14,13,,2,0,107.69
+8,Ireland vs India,Ireland,11,Ben White,Not Out,2,4,,0,0,50.00
+8,Ireland vs India,India,1,Rohit Sharma,Out,52,37,48,4,3,140.54
+8,Ireland vs India,India,2,Virat Kohli,Out,1,5,13,0,0,20.00
+8,Ireland vs India,India,3,Rishabh Pant,Not Out,36,26,46,3,2,138.46
+8,Ireland vs India,India,4,Suryakumar Yadav,Out,2,4,9,0,0,50.00
+8,Ireland vs India,India,5,Shivam Dube,Not Out,0,2,3,0,0,0.00
+9,PNG vs Uganda,Papua New Guinea,1,Assad Vala,Out,0,2,2,0,0,0.00
+9,PNG vs Uganda,Papua New Guinea,2,Tony Ura,Out,2,6,21,0,0,33.33
+9,PNG vs Uganda,Papua New Guinea,3,Sese Bau,Out,5,9,11,1,0,55.55
+9,PNG vs Uganda,Papua New Guinea,4,Lega Siaka,Out,12,17,19,1,0,70.58
+9,PNG vs Uganda,Papua New Guinea,5,Hiri Hiri,Out,15,19,32,2,0,78.94
+9,PNG vs Uganda,Papua New Guinea,6,Charles Amini,Out,5,14,10,0,0,35.71
+9,PNG vs Uganda,Papua New Guinea,7,Kiplin Doriga,Out,12,20,18,0,1,60.00
+9,PNG vs Uganda,Papua New Guinea,8,Chad Soper,Out,4,11,15,0,0,36.36
+9,PNG vs Uganda,Papua New Guinea,9,Norman Vanua,Out,5,10,17,0,0,50.00
+9,PNG vs Uganda,Papua New Guinea,10,Alei Nao,Out,5,6,10,0,0,83.33
+9,PNG vs Uganda,Papua New Guinea,11,John Kariko,Not Out,0,2,2,0,0,0.00
+9,PNG vs Uganda,Uganda,1,Roger Mukasa,Out,0,3,2,0,0,0.00
+9,PNG vs Uganda,Uganda,2,Simon Ssesazi,Out,1,3,13,0,0,33.33
+9,PNG vs Uganda,Uganda,3,Robinson Obuya,Out,1,2,4,0,0,50.00
+9,PNG vs Uganda,Uganda,4,Riazat Ali Shah,Out,33,56,68,1,0,58.92
+9,PNG vs Uganda,Uganda,5,Alpesh Ramjani,Out,8,10,15,1,0,80.00
+9,PNG vs Uganda,Uganda,6,Dinesh Nakrani,Out,0,3,2,0,0,0.00
+9,PNG vs Uganda,Uganda,7,Juma Miyagi,Out,13,16,25,0,0,81.25
+9,PNG vs Uganda,Uganda,8,Kenneth Waiswa,Not Out,7,16,19,0,0,43.75
+9,PNG vs Uganda,Uganda,9,Brian Masaba,Not Out,0,1,3,0,0,0.00
+10,Australia vs Oman,Australia,1,David Warner,Out,56,51,91,6,1,109.80
+10,Australia vs Oman,Australia,2,Travis Head,Out,12,10,13,2,0,120.00
+10,Australia vs Oman,Australia,3,Mitchell Marsh,Out,14,21,25,2,0,66.66
+10,Australia vs Oman,Australia,4,Glenn Maxwell,Out,0,1,1,0,0,0.00
+10,Australia vs Oman,Australia,5,Marcus Stoinis,Not Out,67,36,55,2,6,186.11
+10,Australia vs Oman,Australia,6,Tim David,Out,9,4,5,2,0,225.00
+10,Australia vs Oman,Oman,1,Kashyap Prajapati,Out,7,16,27,1,0,43.75
+10,Australia vs Oman,Oman,2,Pratik Athavale,Out,0,1,3,0,0,0.00
+10,Australia vs Oman,Oman,3,Aqib Ilyas,Out,18,18,29,2,1,100.00
+10,Australia vs Oman,Oman,4,Zeeshan Maqsood,Out,1,7,12,0,0,14.28
+10,Australia vs Oman,Oman,5,Khalid Kail,Out,8,12,24,1,0,66.66
+10,Australia vs Oman,Oman,6,Ayaan Khan,Out,36,30,42,2,2,120.00
+10,Australia vs Oman,Oman,7,Shoaib Khan,Out,0,4,7,0,0,0.00
+10,Australia vs Oman,Oman,8,Mehran Khan,Out,27,16,34,1,2,168.75
+10,Australia vs Oman,Oman,9,Shakeel Ahmed,Out,11,10,21,1,0,110.00
+10,Australia vs Oman,Oman,10,Kaleemullah,Not Out,6,4,6,0,0,150.00
+10,Australia vs Oman,Oman,11,Bilal Khan,Not Out,1,2,2,0,0,50.00
+11,USA vs Pakistan,Pakistan,1,Mohammad Rizwan,Out,9,8,5,0,1,112.50
+11,USA vs Pakistan,Pakistan,2,Babar Azam,Out,44,43,76,3,2,102.32
+11,USA vs Pakistan,Pakistan,3,Usman Khan,Out,3,3,5,0,0,100.00
+11,USA vs Pakistan,Pakistan,4,Fakhar Zaman,Out,11,7,11,0,1,157.14
+11,USA vs Pakistan,Pakistan,5,Shadab Khan,Out,40,25,35,1,3,160.00
+11,USA vs Pakistan,Pakistan,6,Azam Khan,Out,0,1,2,0,0,0.00
+11,USA vs Pakistan,Pakistan,7,Iftikhar Ahmed,Out,18,14,27,3,0,128.57
+11,USA vs Pakistan,Pakistan,8,Shaheen Shah Afridi,Not Out,23,16,25,1,2,143.75
+11,USA vs Pakistan,Pakistan,9,Haris Rauf,Not Out,3,3,11,0,0,100.00
+11,USA vs Pakistan,United States Of America,1,Steven Taylor,Out,12,16,,1,0,75.00
+11,USA vs Pakistan,United States Of America,2,Monank Patel,Out,50,38,,7,1,131.57
+11,USA vs Pakistan,United States Of America,3,Andries Gous,Out,35,26,,5,1,134.61
+11,USA vs Pakistan,United States Of America,4,Aaron Jones,Not Out,36,26,,2,2,138.46
+11,USA vs Pakistan,United States Of America,5,Nitish Kumar,Not Out,14,14,,1,0,100.00
+12,Namibia vs Scotland,Namibia,1,JP Kotze,Out,0,3,2,0,0,0.00
+12,Namibia vs Scotland,Namibia,2,Nikolaas Davin,Out,20,12,24,4,0,166.66
+12,Namibia vs Scotland,Namibia,3,Jan Frylinck,Out,12,14,13,2,0,85.71
+12,Namibia vs Scotland,Namibia,4,Gerhard Erasmus,Out,52,31,44,5,2,167.74
+12,Namibia vs Scotland,Namibia,5,Malan Kruger,Out,2,8,13,0,0,25.00
+12,Namibia vs Scotland,Namibia,6,Zane Green,Out,28,27,39,1,1,103.70
+12,Namibia vs Scotland,Namibia,7,David Wiese,Out,14,13,14,0,1,107.69
+12,Namibia vs Scotland,Namibia,8,Ruben Trumpelmann,Out,1,2,5,0,0,50.00
+12,Namibia vs Scotland,Namibia,9,JJ Smit,Out,11,8,9,0,1,137.50
+12,Namibia vs Scotland,Namibia,10,Bernard Scholtz,Not Out,6,4,9,0,0,150.00
+12,Namibia vs Scotland,Namibia,11,Tangeni Lungameni,Not Out,0,0,3,0,0,-
+12,Namibia vs Scotland,Scotland,1,George Munsey,Out,7,15,21,0,0,46.66
+12,Namibia vs Scotland,Scotland,2,Michael Jones,Out,26,20,38,3,1,130.00
+12,Namibia vs Scotland,Scotland,3,Brandon McMullen,Out,19,17,25,2,0,111.76
+12,Namibia vs Scotland,Scotland,4,Richie Berrington,Not Out,47,35,48,2,2,134.28
+12,Namibia vs Scotland,Scotland,5,Matthew Cross,Out,3,5,4,0,0,60.00
+12,Namibia vs Scotland,Scotland,6,Michael Leask,Out,35,17,29,0,4,205.88
+12,Namibia vs Scotland,Scotland,7,Chris Greaves,Not Out,4,3,4,0,0,133.33
+13,Canada vs Ireland,Canada,1,Aaron Johnson,Out,14,13,23,3,0,107.69
+13,Canada vs Ireland,Canada,2,Navneet Dhaliwal,Out,6,10,10,1,0,60.00
+13,Canada vs Ireland,Canada,3,Pargat Singh,Out,18,14,21,2,0,128.57
+13,Canada vs Ireland,Canada,4,Dilpreet Bajwa,Out,7,9,15,1,0,77.77
+13,Canada vs Ireland,Canada,5,Nicholas Kirton,Out,49,35,56,3,2,140.00
+13,Canada vs Ireland,Canada,6,Shreyas Movva,Out,37,36,56,3,0,102.77
+13,Canada vs Ireland,Canada,7,Dilon Heyliger,Out,0,2,1,0,0,0.00
+13,Canada vs Ireland,Canada,8,Saad Bin Zafar,Not Out,1,1,4,0,0,100.00
+13,Canada vs Ireland,Ireland,1,Andy Balbirnie,Out,17,19,29,1,0,89.47
+13,Canada vs Ireland,Ireland,2,Paul Stirling,Out,9,17,25,1,0,52.94
+13,Canada vs Ireland,Ireland,3,Lorcan Tucker,Out,10,15,21,0,0,66.66
+13,Canada vs Ireland,Ireland,4,Harry Tector,Out,7,5,6,0,0,140.00
+13,Canada vs Ireland,Ireland,5,Curtis Campher,Out,4,7,16,0,0,57.14
+13,Canada vs Ireland,Ireland,6,George Dockrell,Not Out,30,23,47,2,1,130.43
+13,Canada vs Ireland,Ireland,7,Gareth Delany,Out,3,7,5,0,0,42.85
+13,Canada vs Ireland,Ireland,8,Mark Adair,Out,34,24,33,3,1,141.66
+13,Canada vs Ireland,Ireland,9,Barry McCarthy,Not Out,2,3,2,0,0,66.66
+14,Afghanistan vs New Zealand,Afghanistan,1,Rahmanullah Gurbaz,Out,80,56,92,5,5,142.85
+14,Afghanistan vs New Zealand,Afghanistan,2,Ibrahim Zadran,Out,44,41,66,3,2,107.31
+14,Afghanistan vs New Zealand,Afghanistan,3,Azmatullah Omarzai,Out,22,13,9,1,2,169.23
+14,Afghanistan vs New Zealand,Afghanistan,4,Mohammad Nabi,Out,0,1,3,0,0,0.00
+14,Afghanistan vs New Zealand,Afghanistan,5,Rashid Khan,Out,6,5,8,1,0,120.00
+14,Afghanistan vs New Zealand,Afghanistan,6,Karim Janat,Not Out,1,1,6,0,0,100.00
+14,Afghanistan vs New Zealand,Afghanistan,7,Gulbadin Naib,Out,0,2,3,0,0,0.00
+14,Afghanistan vs New Zealand,Afghanistan,8,Najibullah Zadran,Not Out,1,1,1,0,0,100.00
+14,Afghanistan vs New Zealand,New Zealand,1,Finn Allen,Out,0,1,1,0,0,0.00
+14,Afghanistan vs New Zealand,New Zealand,2,Devon Conway,Out,8,10,16,1,0,80.00
+14,Afghanistan vs New Zealand,New Zealand,3,Kane Williamson,Out,9,13,38,1,0,69.23
+14,Afghanistan vs New Zealand,New Zealand,4,Daryl Mitchell,Out,5,5,10,1,0,100.00
+14,Afghanistan vs New Zealand,New Zealand,5,Glenn Phillips,Out,18,18,28,2,0,100.00
+14,Afghanistan vs New Zealand,New Zealand,6,Mark Chapman,Out,4,7,8,0,0,57.14
+14,Afghanistan vs New Zealand,New Zealand,7,Michael Bracewell,Out,0,1,2,0,0,0.00
+14,Afghanistan vs New Zealand,New Zealand,8,Mitchell Santner,Out,4,8,12,0,0,50.00
+14,Afghanistan vs New Zealand,New Zealand,9,Matt Henry,Out,12,17,21,0,1,70.58
+14,Afghanistan vs New Zealand,New Zealand,10,Lockie Ferguson,Out,2,5,3,0,0,40.00
+14,Afghanistan vs New Zealand,New Zealand,11,Trent Boult,Not Out,3,7,10,0,0,42.85
+15,Sri Lanka vs Bangladesh,Sri Lanka,1,Pathum Nissanka,Out,47,28,40,7,1,167.85
+15,Sri Lanka vs Bangladesh,Sri Lanka,2,Kusal Mendis,Out,10,8,11,2,0,125.00
+15,Sri Lanka vs Bangladesh,Sri Lanka,3,Kamindu Mendis,Out,4,5,11,1,0,80.00
+15,Sri Lanka vs Bangladesh,Sri Lanka,4,Dhananjaya de Silva,Out,21,26,51,1,0,80.76
+15,Sri Lanka vs Bangladesh,Sri Lanka,5,Charith Asalanka,Out,19,21,23,0,1,90.47
+15,Sri Lanka vs Bangladesh,Sri Lanka,6,Wanindu Hasaranga,Out,0,1,1,0,0,0.00
+15,Sri Lanka vs Bangladesh,Sri Lanka,7,Angelo Mathews,Out,16,19,27,1,0,84.21
+15,Sri Lanka vs Bangladesh,Sri Lanka,8,Dasun Shanaka,Out,3,7,8,0,0,42.85
+15,Sri Lanka vs Bangladesh,Sri Lanka,9,Maheesh Theekshana,Out,0,3,4,0,0,0.00
+15,Sri Lanka vs Bangladesh,Sri Lanka,10,Matheesha Pathirana,Not Out,0,1,7,0,0,0.00
+15,Sri Lanka vs Bangladesh,Sri Lanka,11,Nuwan Thushara,Not Out,0,1,1,0,0,0.00
+15,Sri Lanka vs Bangladesh,Bangladesh,1,Tanzid Hasan,Out,3,6,8,0,0,50.00
+15,Sri Lanka vs Bangladesh,Bangladesh,2,Soumya Sarkar,Out,0,2,2,0,0,0.00
+15,Sri Lanka vs Bangladesh,Bangladesh,3,Litton Das,Out,36,38,63,2,1,94.73
+15,Sri Lanka vs Bangladesh,Bangladesh,4,Najmul Hossain Shanto,Out,7,13,16,0,0,53.84
+15,Sri Lanka vs Bangladesh,Bangladesh,5,Towhid Hridoy,Out,40,20,28,1,4,200.00
+15,Sri Lanka vs Bangladesh,Bangladesh,6,Shakib Al Hasan,Out,8,14,19,0,0,57.14
+15,Sri Lanka vs Bangladesh,Bangladesh,7,Mahmudullah,Not Out,16,13,29,0,1,123.07
+15,Sri Lanka vs Bangladesh,Bangladesh,8,Rishad Hossain,Out,1,3,6,0,0,33.33
+15,Sri Lanka vs Bangladesh,Bangladesh,9,Taskin Ahmed,Out,0,1,1,0,0,0.00
+15,Sri Lanka vs Bangladesh,Bangladesh,10,Tanzim Hasan Sakib,Not Out,1,4,10,0,0,25.00
+16,Netherlands vs South Africa,Netherlands,1,Michael Levitt,Out,0,3,4,0,0,0.00
+16,Netherlands vs South Africa,Netherlands,2,Max ODowd,Out,2,6,19,0,0,33.33
+16,Netherlands vs South Africa,Netherlands,3,Vikramjit Singh,Out,12,17,19,1,0,70.58
+16,Netherlands vs South Africa,Netherlands,4,Sybrand Engelbrecht,Out,40,45,63,2,1,88.88
+16,Netherlands vs South Africa,Netherlands,5,Bas de Leede,Out,6,16,17,0,0,37.50
+16,Netherlands vs South Africa,Netherlands,6,Scott Edwards,Out,10,9,8,0,1,111.11
+16,Netherlands vs South Africa,Netherlands,7,Teja Nidamanuru,Out,0,1,2,0,0,0.00
+16,Netherlands vs South Africa,Netherlands,8,Logan van Beek,Out,23,22,34,3,0,104.54
+16,Netherlands vs South Africa,Netherlands,9,Tim Pringle,Out,0,2,1,0,0,0.00
+16,Netherlands vs South Africa,Netherlands,10,Paul van Meekeren,Not Out,1,1,2,0,0,100.00
+16,Netherlands vs South Africa,South Africa,1,Reeza Hendricks,Out,3,10,8,0,0,30.00
+16,Netherlands vs South Africa,South Africa,2,Quinton de Kock,Out,0,0,1,0,0,-
+16,Netherlands vs South Africa,South Africa,3,Aiden Markram,Out,0,3,13,0,0,0.00
+16,Netherlands vs South Africa,South Africa,4,Tristan Stubbs,Out,33,37,70,1,1,89.18
+16,Netherlands vs South Africa,South Africa,5,Heinrich Klaasen,Out,4,7,8,0,0,57.14
+16,Netherlands vs South Africa,South Africa,6,David Miller,Not Out,59,51,67,3,4,115.68
+16,Netherlands vs South Africa,South Africa,7,Marco Jansen,Out,3,5,8,0,0,60.00
+16,Netherlands vs South Africa,South Africa,8,Keshav Maharaj,Not Out,0,1,4,0,0,0.00
+17,Australia vs England,Australia,1,Travis Head,Out,34,18,25,2,3,188.88
+17,Australia vs England,Australia,2,David Warner,Out,39,16,22,2,4,243.75
+17,Australia vs England,Australia,3,Mitchell Marsh,Out,35,25,43,2,2,140.00
+17,Australia vs England,Australia,4,Glenn Maxwell,Out,28,25,44,3,1,112.00
+17,Australia vs England,Australia,5,Marcus Stoinis,Out,30,17,30,2,2,176.47
+17,Australia vs England,Australia,6,Tim David,Out,11,8,10,0,1,137.50
+17,Australia vs England,Australia,7,Matthew Wade,Not Out,17,10,21,3,0,170.00
+17,Australia vs England,Australia,8,Pat Cummins,Out,0,1,1,0,0,0.00
+17,Australia vs England,Australia,9,Mitchell Starc,Not Out,0,0,3,0,0,-
+17,Australia vs England,England,1,Phil Salt,Out,37,23,36,4,2,160.86
+17,Australia vs England,England,2,Jos Buttler,Out,42,28,47,5,2,150.00
+17,Australia vs England,England,3,Will Jacks,Out,10,10,15,1,0,100.00
+17,Australia vs England,England,4,Jonny Bairstow,Out,7,13,17,0,0,53.84
+17,Australia vs England,England,5,Moeen Ali,Out,25,15,21,0,3,166.66
+17,Australia vs England,England,6,Harry Brook,Not Out,20,16,28,2,0,125.00
+17,Australia vs England,England,7,Liam Livingstone,Out,15,12,13,0,1,125.00
+17,Australia vs England,England,8,Chris Jordan,Not Out,1,3,5,0,0,33.33
+18,West Indies vs Uganda,West Indies,1,Brandon King,Out,13,8,20,2,0,162.50
+18,West Indies vs Uganda,West Indies,2,Johnson Charles,Out,44,42,53,4,2,104.76
+18,West Indies vs Uganda,West Indies,3,Nicholas Pooran,Out,22,17,17,0,3,129.41
+18,West Indies vs Uganda,West Indies,4,Rovman Powell,Out,23,18,26,1,1,127.77
+18,West Indies vs Uganda,West Indies,5,Sherfane Rutherford,Out,22,16,23,2,1,137.50
+18,West Indies vs Uganda,West Indies,6,Andre Russell,Not Out,30,17,23,6,0,176.47
+18,West Indies vs Uganda,West Indies,7,Romario Shepherd,Not Out,5,5,13,0,0,100.00
+18,West Indies vs Uganda,Uganda,1,Roger Mukasa,Out,0,2,1,0,0,0.00
+18,West Indies vs Uganda,Uganda,2,Simon Ssesazi,Out,4,3,6,1,0,133.33
+18,West Indies vs Uganda,Uganda,3,Robinson Obuya,Out,6,8,12,1,0,75.00
+18,West Indies vs Uganda,Uganda,4,Alpesh Ramjani,Out,5,6,5,1,0,83.33
+18,West Indies vs Uganda,Uganda,5,Kenneth Waiswa,Out,1,10,20,0,0,10.00
+18,West Indies vs Uganda,Uganda,6,Riazat Ali Shah,Out,3,8,5,0,0,37.50
+18,West Indies vs Uganda,Uganda,7,Dinesh Nakrani,Out,0,2,7,0,0,0.00
+18,West Indies vs Uganda,Uganda,8,Brian Masaba,Out,1,4,8,0,0,25.00
+18,West Indies vs Uganda,Uganda,9,Juma Miyagi,Not Out,13,20,20,0,0,65.00
+18,West Indies vs Uganda,Uganda,10,Cosmas Kyewuta,Out,1,6,10,0,0,16.66
+18,West Indies vs Uganda,Uganda,11,Frank Nsubuga,Out,0,3,4,0,0,0.00
+19,India vs Pakistan,India,1,Rohit Sharma,Out,13,12,15,1,1,108.33
+19,India vs Pakistan,India,2,Virat Kohli,Out,4,3,7,1,0,133.33
+19,India vs Pakistan,India,3,Rishabh Pant,Out,42,31,65,6,0,135.48
+19,India vs Pakistan,India,4,Axar Patel,Out,20,18,26,2,1,111.11
+19,India vs Pakistan,India,5,Suryakumar Yadav,Out,7,8,16,1,0,87.50
+19,India vs Pakistan,India,6,Shivam Dube,Out,3,9,7,0,0,33.33
+19,India vs Pakistan,India,7,Hardik Pandya,Out,7,12,24,1,0,58.33
+19,India vs Pakistan,India,8,Ravindra Jadeja,Out,0,1,1,0,0,0.00
+19,India vs Pakistan,India,9,Arshdeep Singh,Out,9,13,26,1,0,69.23
+19,India vs Pakistan,India,10,Jasprit Bumrah,Out,0,1,1,0,0,0.00
+19,India vs Pakistan,India,11,Mohammed Siraj,Not Out,7,7,7,0,0,100.00
+19,India vs Pakistan,Pakistan,1,Mohammad Rizwan,Out,31,44,67,1,1,70.45
+19,India vs Pakistan,Pakistan,2,Babar Azam,Out,13,10,23,2,0,130.00
+19,India vs Pakistan,Pakistan,3,Usman Khan,Out,13,15,23,1,0,86.66
+19,India vs Pakistan,Pakistan,4,Fakhar Zaman,Out,13,8,8,1,1,162.50
+19,India vs Pakistan,Pakistan,5,Imad Wasim,Out,15,23,40,1,0,65.21
+19,India vs Pakistan,Pakistan,6,Shadab Khan,Out,4,7,10,0,0,57.14
+19,India vs Pakistan,Pakistan,7,Iftikhar Ahmed,Out,5,9,14,0,0,55.55
+19,India vs Pakistan,Pakistan,8,Shaheen Shah Afridi,Not Out,0,1,4,0,0,0.00
+19,India vs Pakistan,Pakistan,9,Naseem Shah,Not Out,10,4,3,2,0,250.00
+20,Oman vs Scotland,Oman,1,Pratik Athavale,Out,54,40,65,5,2,135.00
+20,Oman vs Scotland,Oman,2,Naseem Khushi,Out,10,9,11,0,1,111.11
+20,Oman vs Scotland,Oman,3,Aqib Ilyas,Out,16,6,11,2,1,266.66
+20,Oman vs Scotland,Oman,4,Zeeshan Maqsood,Out,3,4,6,0,0,75.00
+20,Oman vs Scotland,Oman,5,Khalid Kail,Out,5,7,8,0,0,71.42
+20,Oman vs Scotland,Oman,6,Ayaan Khan,Not Out,41,39,44,4,0,105.12
+20,Oman vs Scotland,Oman,7,Mehran Khan,Out,13,10,10,2,0,130.00
+20,Oman vs Scotland,Oman,8,Rafiullah,Out,0,3,2,0,0,0.00
+20,Oman vs Scotland,Oman,9,Shakeel Ahmed,Not Out,3,2,5,0,0,150.00
+20,Oman vs Scotland,Scotland,1,George Munsey,Out,41,20,35,2,4,205.00
+20,Oman vs Scotland,Scotland,2,Michael Jones,Out,16,13,12,1,2,123.07
+20,Oman vs Scotland,Scotland,3,Brandon McMullen,Not Out,61,31,42,9,2,196.77
+20,Oman vs Scotland,Scotland,4,Richie Berrington,Out,13,7,7,1,1,185.71
+20,Oman vs Scotland,Scotland,5,Matthew Cross,Not Out,15,8,12,0,2,187.50
+21,South Africa vs Bangladesh,South Africa,1,Quinton de Kock,Out,18,11,13,1,2,163.63
+21,South Africa vs Bangladesh,South Africa,2,Reeza Hendricks,Out,0,1,4,0,0,0.00
+21,South Africa vs Bangladesh,South Africa,3,Aiden Markram,Out,4,8,14,1,0,50.00
+21,South Africa vs Bangladesh,South Africa,4,Tristan Stubbs,Out,0,5,9,0,0,0.00
+21,South Africa vs Bangladesh,South Africa,5,Heinrich Klaasen,Out,46,44,60,2,3,104.54
+21,South Africa vs Bangladesh,South Africa,6,David Miller,Out,29,38,62,1,1,76.31
+21,South Africa vs Bangladesh,South Africa,7,Marco Jansen,Not Out,5,5,13,0,0,100.00
+21,South Africa vs Bangladesh,South Africa,8,Keshav Maharaj,Not Out,4,8,7,0,0,50.00
+21,South Africa vs Bangladesh,Bangladesh,1,Tanzid Hasan,Out,9,9,8,2,0,100.00
+21,South Africa vs Bangladesh,Bangladesh,2,Najmul Hossain Shanto,Out,14,23,44,0,1,60.86
+21,South Africa vs Bangladesh,Bangladesh,3,Litton Das,Out,9,13,18,1,0,69.23
+21,South Africa vs Bangladesh,Bangladesh,4,Shakib Al Hasan,Out,3,4,6,0,0,75.00
+21,South Africa vs Bangladesh,Bangladesh,5,Towhid Hridoy,Out,37,34,46,2,2,108.82
+21,South Africa vs Bangladesh,Bangladesh,6,Mahmudullah,Out,20,27,54,2,0,74.07
+21,South Africa vs Bangladesh,Bangladesh,7,Jaker Ali,Out,8,9,11,0,0,88.88
+21,South Africa vs Bangladesh,Bangladesh,8,Rishad Hossain,Not Out,0,1,5,0,0,0.00
+21,South Africa vs Bangladesh,Bangladesh,9,Taskin Ahmed,Not Out,1,1,1,0,0,100.00
+22,Canada vs Pakistan,Canada,1,Aaron Johnson,Out,52,44,64,4,4,118.18
+22,Canada vs Pakistan,Canada,2,Navneet Dhaliwal,Out,4,7,13,1,0,57.14
+22,Canada vs Pakistan,Canada,3,Pargat Singh,Out,2,6,9,0,0,33.33
+22,Canada vs Pakistan,Canada,4,Nicholas Kirton,Out,1,6,10,0,0,16.66
+22,Canada vs Pakistan,Canada,5,Shreyas Movva,Out,2,9,11,0,0,22.22
+22,Canada vs Pakistan,Canada,6,Ravinderpal Singh,Out,0,2,1,0,0,0.00
+22,Canada vs Pakistan,Canada,7,Saad Bin Zafar,Out,10,21,29,1,0,47.61
+22,Canada vs Pakistan,Canada,8,Kaleem Sana,Not Out,13,14,27,0,1,92.85
+22,Canada vs Pakistan,Canada,9,Dilon Heyliger,Not Out,9,11,12,1,0,81.81
+22,Canada vs Pakistan,Pakistan,1,Mohammad Rizwan,Not Out,53,53,83,2,1,100.00
+22,Canada vs Pakistan,Pakistan,2,Saim Ayub,Out,6,12,22,0,0,50.00
+22,Canada vs Pakistan,Pakistan,3,Babar Azam,Out,33,33,43,1,1,100.00
+22,Canada vs Pakistan,Pakistan,4,Fakhar Zaman,Out,4,6,15,0,0,66.66
+22,Canada vs Pakistan,Pakistan,5,Usman Khan,Not Out,2,1,1,0,0,200.00
+24,Namibia vs Australia,Namibia,1,Michael van Lingen,Out,10,10,20,2,0,100.00
+24,Namibia vs Australia,Namibia,2,Nikolaas Davin,Out,2,7,12,0,0,28.57
+24,Namibia vs Australia,Namibia,3,Jan Frylinck,Out,1,6,4,0,0,16.66
+24,Namibia vs Australia,Namibia,4,Gerhard Erasmus,Out,36,43,64,4,1,83.72
+24,Namibia vs Australia,Namibia,5,JJ Smit,Out,3,9,15,0,0,33.33
+24,Namibia vs Australia,Namibia,6,Zane Green,Out,1,4,6,0,0,25.00
+24,Namibia vs Australia,Namibia,7,David Wiese,Out,1,7,7,0,0,14.28
+24,Namibia vs Australia,Namibia,8,Ruben Trumpelmann,Out,7,7,8,0,1,100.00
+24,Namibia vs Australia,Namibia,9,Bernard Scholtz,Out,0,2,1,0,0,0.00
+24,Namibia vs Australia,Namibia,10,Jack Brassell,Not Out,2,3,22,0,0,66.66
+24,Namibia vs Australia,Namibia,11,Ben Shikongo,Out,0,4,3,0,0,0.00
+24,Namibia vs Australia,Australia,1,David Warner,Out,20,8,7,3,1,250.00
+24,Namibia vs Australia,Australia,2,Travis Head,Not Out,34,17,24,5,2,200.00
+24,Namibia vs Australia,Australia,3,Mitchell Marsh,Not Out,18,9,16,3,1,200.00
+25,USA vs India,United States Of America,1,Shayan Jahangir,Out,0,1,1,0,0,0.00
+25,USA vs India,United States Of America,2,Steven Taylor,Out,24,30,57,0,2,80.00
+25,USA vs India,United States Of America,3,Andries Gous,Out,2,5,4,0,0,40.00
+25,USA vs India,United States Of America,4,Aaron Jones,Out,11,22,29,0,1,50.00
+25,USA vs India,United States Of America,5,Nitish Kumar,Out,27,23,33,2,1,117.39
+25,USA vs India,United States Of America,6,Corey Anderson,Out,15,12,25,1,1,125.00
+25,USA vs India,United States Of America,7,Harmeet Singh,Out,10,10,16,0,1,100.00
+25,USA vs India,United States Of America,8,Shadley van Schalkwyk,Not Out,11,10,15,1,0,110.00
+25,USA vs India,United States Of America,9,Jasdeep Singh,Out,2,7,11,0,0,28.57
+25,USA vs India,India,1,Rohit Sharma,Out,3,6,12,0,0,50.00
+25,USA vs India,India,2,Virat Kohli,Out,0,1,1,0,0,0.00
+25,USA vs India,India,3,Rishabh Pant,Out,18,20,38,1,1,90.00
+25,USA vs India,India,4,Suryakumar Yadav,Not Out,50,49,80,2,2,102.04
+25,USA vs India,India,5,Shivam Dube,Not Out,31,35,51,1,1,88.57
+26,West Indies vs New Zealand,West Indies,1,Brandon King,Out,9,12,36,0,1,75.00
+26,West Indies vs New Zealand,West Indies,2,Johnson Charles,Out,0,5,3,0,0,0.00
+26,West Indies vs New Zealand,West Indies,3,Nicholas Pooran,Out,17,12,12,3,0,141.66
+26,West Indies vs New Zealand,West Indies,4,Roston Chase,Out,0,3,3,0,0,0.00
+26,West Indies vs New Zealand,West Indies,5,Rovman Powell,Out,1,5,5,0,0,20.00
+26,West Indies vs New Zealand,West Indies,6,Sherfane Rutherford,Not Out,68,39,72,2,6,174.35
+26,West Indies vs New Zealand,West Indies,7,Akeal Hosein,Out,15,17,17,0,1,88.23
+26,West Indies vs New Zealand,West Indies,8,Andre Russell,Out,14,7,8,2,1,200.00
+26,West Indies vs New Zealand,West Indies,9,Romario Shepherd,Out,13,13,19,0,1,100.00
+26,West Indies vs New Zealand,West Indies,10,Alzarri Joseph,Out,6,6,6,1,0,100.00
+26,West Indies vs New Zealand,West Indies,11,Gudakesh Motie,Not Out,0,1,11,0,0,0.00
+26,West Indies vs New Zealand,New Zealand,1,Devon Conway,Out,5,8,13,0,0,62.50
+26,West Indies vs New Zealand,New Zealand,2,Finn Allen,Out,26,23,25,3,1,113.04
+26,West Indies vs New Zealand,New Zealand,3,Rachin Ravindra,Out,10,13,27,0,0,76.92
+26,West Indies vs New Zealand,New Zealand,4,Kane Williamson,Out,1,2,4,0,0,50.00
+26,West Indies vs New Zealand,New Zealand,5,Daryl Mitchell,Out,12,13,18,1,0,92.30
+26,West Indies vs New Zealand,New Zealand,6,Glenn Phillips,Out,40,33,40,3,2,121.21
+26,West Indies vs New Zealand,New Zealand,7,James Neesham,Out,10,11,18,0,1,90.90
+26,West Indies vs New Zealand,New Zealand,8,Mitchell Santner,Not Out,21,12,24,0,3,175.00
+26,West Indies vs New Zealand,New Zealand,9,Tim Southee,Out,0,1,1,0,0,0.00
+26,West Indies vs New Zealand,New Zealand,10,Trent Boult,Out,7,4,5,0,1,175.00
+26,West Indies vs New Zealand,New Zealand,11,Lockie Ferguson,Not Out,0,0,3,0,0,-
+27,Bangladesh vs Netherlands,Bangladesh,1,Tanzid Hasan,Out,35,26,45,5,1,134.61
+27,Bangladesh vs Netherlands,Bangladesh,2,Najmul Hossain Shanto,Out,1,3,6,0,0,33.33
+27,Bangladesh vs Netherlands,Bangladesh,3,Litton Das,Out,1,2,12,0,0,50.00
+27,Bangladesh vs Netherlands,Bangladesh,4,Shakib Al Hasan,Not Out,64,46,74,9,0,139.13
+27,Bangladesh vs Netherlands,Bangladesh,5,Towhid Hridoy,Out,9,15,13,0,0,60.00
+27,Bangladesh vs Netherlands,Bangladesh,6,Mahmudullah,Out,25,21,22,2,2,119.04
+27,Bangladesh vs Netherlands,Bangladesh,7,Jaker Ali,Not Out,14,7,11,3,0,200.00
+27,Bangladesh vs Netherlands,Netherlands,1,Michael Levitt,Out,18,16,17,2,1,112.50
+27,Bangladesh vs Netherlands,Netherlands,2,Max ODowd,Out,12,16,23,3,0,75.00
+27,Bangladesh vs Netherlands,Netherlands,3,Vikramjit Singh,Out,26,16,22,0,3,162.50
+27,Bangladesh vs Netherlands,Netherlands,4,Sybrand Engelbrecht,Out,33,22,36,3,1,150.00
+27,Bangladesh vs Netherlands,Netherlands,5,Scott Edwards,Out,25,23,28,3,0,108.69
+27,Bangladesh vs Netherlands,Netherlands,6,Bas de Leede,Out,0,2,1,0,0,0.00
+27,Bangladesh vs Netherlands,Netherlands,7,Logan van Beek,Out,2,3,10,0,0,66.66
+27,Bangladesh vs Netherlands,Netherlands,8,Tim Pringle,Out,1,10,16,0,0,10.00
+27,Bangladesh vs Netherlands,Netherlands,9,Aryan Dutt,Not Out,15,12,11,1,1,125.00
+28,Oman vs England,Oman,1,Pratik Athavale,Out,5,3,6,1,0,166.66
+28,Oman vs England,Oman,2,Kashyap Prajapati,Out,9,16,28,0,1,56.25
+28,Oman vs England,Oman,3,Aqib Ilyas,Out,8,10,9,1,0,80.00
+28,Oman vs England,Oman,4,Zeeshan Maqsood,Out,1,5,7,0,0,20.00
+28,Oman vs England,Oman,5,Khalid Kail,Out,1,3,6,0,0,33.33
+28,Oman vs England,Oman,6,Ayaan Khan,Out,1,5,11,0,0,20.00
+28,Oman vs England,Oman,7,Shoaib Khan,Out,11,23,31,1,0,47.82
+28,Oman vs England,Oman,8,Mehran Khan,Out,0,2,2,0,0,0.00
+28,Oman vs England,Oman,9,Fayyaz Butt,Out,2,7,7,0,0,28.57
+28,Oman vs England,Oman,10,Kaleemullah,Out,5,5,8,1,0,100.00
+28,Oman vs England,Oman,11,Bilal Khan,Not Out,0,1,3,0,0,0.00
+28,Oman vs England,England,1,Phil Salt,Out,12,3,2,0,2,400.00
+28,Oman vs England,England,2,Jos Buttler,Not Out,24,8,17,4,1,300.00
+28,Oman vs England,England,3,Will Jacks,Out,5,7,7,1,0,71.42
+28,Oman vs England,England,4,Jonny Bairstow,Not Out,8,2,6,2,0,400.00
+29,PNG vs Afghanistan,Papua New Guinea,1,Tony Ura,Out,11,18,31,1,0,61.11
+29,PNG vs Afghanistan,Papua New Guinea,2,Assad Vala,Out,3,2,9,0,0,150.00
+29,PNG vs Afghanistan,Papua New Guinea,3,Lega Siaka,Out,0,1,1,0,0,0.00
+29,PNG vs Afghanistan,Papua New Guinea,4,Sese Bau,Out,0,1,1,0,0,0.00
+29,PNG vs Afghanistan,Papua New Guinea,5,Hiri Hiri,Out,1,3,4,0,0,33.33
+29,PNG vs Afghanistan,Papua New Guinea,6,Chad Soper,Out,9,26,27,0,0,34.61
+29,PNG vs Afghanistan,Papua New Guinea,7,Kiplin Doriga,Out,27,32,46,2,0,84.37
+29,PNG vs Afghanistan,Papua New Guinea,8,Norman Vanua,Out,0,7,10,0,0,0.00
+29,PNG vs Afghanistan,Papua New Guinea,9,Alei Nao,Out,13,19,25,2,0,68.42
+29,PNG vs Afghanistan,Papua New Guinea,10,John Kariko,Not Out,4,7,10,1,0,57.14
+29,PNG vs Afghanistan,Papua New Guinea,11,Semo Kamea,Out,2,3,7,0,0,66.66
+29,PNG vs Afghanistan,Afghanistan,1,Rahmanullah Gurbaz,Out,11,7,15,1,1,157.14
+29,PNG vs Afghanistan,Afghanistan,2,Ibrahim Zadran,Out,0,7,9,0,0,0.00
+29,PNG vs Afghanistan,Afghanistan,3,Gulbadin Naib,Not Out,49,36,60,4,2,136.11
+29,PNG vs Afghanistan,Afghanistan,4,Azmatullah Omarzai,Out,13,18,26,1,0,72.22
+29,PNG vs Afghanistan,Afghanistan,5,Mohammad Nabi,Not Out,16,23,27,1,0,69.56
+31,South Africa vs Nepal,South Africa,1,Reeza Hendricks,Out,43,49,64,5,1,87.75
+31,South Africa vs Nepal,South Africa,2,Quinton de Kock,Out,10,11,14,1,0,90.90
+31,South Africa vs Nepal,South Africa,3,Aiden Markram,Out,15,22,27,2,0,68.18
+31,South Africa vs Nepal,South Africa,4,Heinrich Klaasen,Out,3,5,6,0,0,60.00
+31,South Africa vs Nepal,South Africa,5,David Miller,Out,7,10,18,0,0,70.00
+31,South Africa vs Nepal,South Africa,6,Tristan Stubbs,Not Out,27,18,18,2,1,150.00
+31,South Africa vs Nepal,South Africa,7,Marco Jansen,Out,1,4,9,0,0,25.00
+31,South Africa vs Nepal,South Africa,8,Kagiso Rabada,Out,0,1,1,0,0,0.00
+31,South Africa vs Nepal,Nepal,1,Kushal Bhurtel,Out,13,21,31,1,1,61.90
+31,South Africa vs Nepal,Nepal,2,Aasif Sheikh,Out,42,49,77,4,1,85.71
+31,South Africa vs Nepal,Nepal,3,Rohit Paudel,Out,0,2,1,0,0,0.00
+31,South Africa vs Nepal,Nepal,4,Anil Sah,Out,27,24,25,3,1,112.50
+31,South Africa vs Nepal,Nepal,5,Dipendra Singh Airee,Out,6,11,15,0,0,54.54
+31,South Africa vs Nepal,Nepal,6,Kushal Malla,Out,1,3,4,0,0,33.33
+31,South Africa vs Nepal,Nepal,7,Gulsan Jha,Out,6,6,13,1,0,100.00
+31,South Africa vs Nepal,Nepal,8,Sompal Kami,Not Out,8,4,9,0,1,200.00
+32,Uganda vs New Zealand,Uganda,1,Ronak Patel,Out,2,20,36,0,0,10.00
+32,Uganda vs New Zealand,Uganda,2,Simon Ssesazi,Out,0,1,2,0,0,0.00
+32,Uganda vs New Zealand,Uganda,3,Robinson Obuya,Out,0,1,1,0,0,0.00
+32,Uganda vs New Zealand,Uganda,4,Alpesh Ramjani,Out,0,6,15,0,0,0.00
+32,Uganda vs New Zealand,Uganda,5,Kenneth Waiswa,Out,11,18,22,2,0,61.11
+32,Uganda vs New Zealand,Uganda,6,Riazat Ali Shah,Out,2,13,21,0,0,15.38
+32,Uganda vs New Zealand,Uganda,7,Dinesh Nakrani,Out,4,13,24,0,0,30.76
+32,Uganda vs New Zealand,Uganda,8,Brian Masaba,Not Out,3,20,33,0,0,15.00
+32,Uganda vs New Zealand,Uganda,9,Fred Achelam,Out,9,13,16,1,0,69.23
+32,Uganda vs New Zealand,Uganda,10,Juma Miyagi,Out,0,1,2,0,0,0.00
+32,Uganda vs New Zealand,Uganda,11,Cosmas Kyewuta,Out,1,6,4,0,0,16.66
+32,Uganda vs New Zealand,New Zealand,1,Finn Allen,Out,9,17,24,1,0,52.94
+32,Uganda vs New Zealand,New Zealand,2,Devon Conway,Not Out,22,15,31,4,0,146.66
+32,Uganda vs New Zealand,New Zealand,3,Rachin Ravindra,Not Out,1,1,6,0,0,100.00
+34,England vs Namibia,England,1,Phil Salt,Out,11,8,11,2,0,137.50
+34,England vs Namibia,England,2,Jos Buttler,Out,0,4,6,0,0,0.00
+34,England vs Namibia,England,3,Jonny Bairstow,Out,31,18,27,3,2,172.22
+34,England vs Namibia,England,4,Harry Brook,Not Out,47,20,37,4,2,235.00
+34,England vs Namibia,England,5,Moeen Ali,Out,16,6,10,0,2,266.66
+34,England vs Namibia,England,6,Liam Livingstone,Out,13,4,4,0,2,325.00
+34,England vs Namibia,Namibia,1,Michael van Lingen,Out,33,29,41,1,3,113.79
+34,England vs Namibia,Namibia,2,Nikolaas Davin,Out,18,16,26,1,1,112.50
+34,England vs Namibia,Namibia,3,David Wiese,Out,27,12,17,2,2,225.00
+34,England vs Namibia,Namibia,4,Gerhard Erasmus,Not Out,1,3,5,0,0,33.33
+34,England vs Namibia,Namibia,5,JJ Smit,Not Out,0,1,2,0,0,0.00
+35,Scotland vs Australia,Scotland,1,George Munsey,Out,35,23,40,2,3,152.17
+35,Scotland vs Australia,Scotland,2,Michael Jones,Out,2,3,2,0,0,66.66
+35,Scotland vs Australia,Scotland,3,Brandon McMullen,Out,60,34,44,2,6,176.47
+35,Scotland vs Australia,Scotland,4,Richie Berrington,Not Out,42,31,48,1,2,135.48
+35,Scotland vs Australia,Scotland,5,Matthew Cross,Out,18,11,13,1,1,163.63
+35,Scotland vs Australia,Scotland,6,Michael Leask,Out,5,8,9,0,0,62.50
+35,Scotland vs Australia,Scotland,7,Chris Greaves,Not Out,9,10,15,0,0,90.00
+35,Scotland vs Australia,Australia,1,Travis Head,Out,68,49,68,5,4,138.77
+35,Scotland vs Australia,Australia,2,David Warner,Out,1,4,4,0,0,25.00
+35,Scotland vs Australia,Australia,3,Mitchell Marsh,Out,8,9,17,1,0,88.88
+35,Scotland vs Australia,Australia,4,Glenn Maxwell,Out,11,8,13,0,1,137.50
+35,Scotland vs Australia,Australia,5,Marcus Stoinis,Out,59,29,35,9,2,203.44
+35,Scotland vs Australia,Australia,6,Tim David,Not Out,24,14,19,2,1,171.42
+35,Scotland vs Australia,Australia,7,Matthew Wade,Not Out,4,5,13,0,0,80.00
+36,Ireland vs Pakistan,Ireland,1,Andy Balbirnie,Out,0,3,2,0,0,0.00
+36,Ireland vs Pakistan,Ireland,2,Paul Stirling,Out,1,2,11,0,0,50.00
+36,Ireland vs Pakistan,Ireland,3,Lorcan Tucker,Out,2,2,1,0,0,100.00
+36,Ireland vs Pakistan,Ireland,4,Harry Tector,Out,0,6,15,0,0,0.00
+36,Ireland vs Pakistan,Ireland,5,Curtis Campher,Out,7,14,26,1,0,50.00
+36,Ireland vs Pakistan,Ireland,6,George Dockrell,Out,11,10,11,2,0,110.00
+36,Ireland vs Pakistan,Ireland,7,Gareth Delany,Out,31,19,30,1,3,163.15
+36,Ireland vs Pakistan,Ireland,8,Mark Adair,Out,15,19,34,2,0,78.94
+36,Ireland vs Pakistan,Ireland,9,Barry McCarthy,Out,2,7,12,0,0,28.57
+36,Ireland vs Pakistan,Ireland,10,Josh Little,Not Out,22,18,26,2,1,122.22
+36,Ireland vs Pakistan,Ireland,11,Ben White,Not Out,5,20,24,0,0,25.00
+36,Ireland vs Pakistan,Pakistan,1,Mohammad Rizwan,Out,17,16,30,2,0,106.25
+36,Ireland vs Pakistan,Pakistan,2,Saim Ayub,Out,17,17,19,2,1,100.00
+36,Ireland vs Pakistan,Pakistan,3,Babar Azam,Not Out,32,34,79,2,0,94.11
+36,Ireland vs Pakistan,Pakistan,4,Fakhar Zaman,Out,5,9,15,0,0,55.55
+36,Ireland vs Pakistan,Pakistan,5,Usman Khan,Out,2,3,4,0,0,66.66
+36,Ireland vs Pakistan,Pakistan,6,Shadab Khan,Out,0,2,3,0,0,0.00
+36,Ireland vs Pakistan,Pakistan,7,Imad Wasim,Out,4,6,5,1,0,66.66
+36,Ireland vs Pakistan,Pakistan,8,Abbas Afridi,Out,17,21,32,1,1,80.95
+36,Ireland vs Pakistan,Pakistan,9,Shaheen Shah Afridi,Not Out,13,5,23,0,2,260.00
+37,Bangladesh vs Nepal,Bangladesh,1,Tanzid Hasan,Out,0,1,,0,0,0.00
+37,Bangladesh vs Nepal,Bangladesh,2,Litton Das,Out,10,12,,1,0,83.33
+37,Bangladesh vs Nepal,Bangladesh,3,Najmul Hossain Shanto,Out,4,5,,0,0,80.00
+37,Bangladesh vs Nepal,Bangladesh,4,Shakib Al Hasan,Out,17,22,,2,0,77.27
+37,Bangladesh vs Nepal,Bangladesh,5,Towhid Hridoy,Out,9,7,,2,0,128.57
+37,Bangladesh vs Nepal,Bangladesh,6,Mahmudullah,Out,13,13,,2,0,100.00
+37,Bangladesh vs Nepal,Bangladesh,7,Jaker Ali,Out,12,26,,0,0,46.15
+37,Bangladesh vs Nepal,Bangladesh,8,Tanzim Hasan Sakib,Out,3,5,,0,0,60.00
+37,Bangladesh vs Nepal,Bangladesh,9,Rishad Hossain,Out,13,7,,1,1,185.71
+37,Bangladesh vs Nepal,Bangladesh,10,Taskin Ahmed,Not Out,12,15,,2,0,80.00
+37,Bangladesh vs Nepal,Bangladesh,11,Mustafizur Rahman,Out,3,4,,0,0,75.00
+37,Bangladesh vs Nepal,Nepal,1,Kushal Bhurtel,Out,4,8,11,1,0,50.00
+37,Bangladesh vs Nepal,Nepal,2,Aasif Sheikh,Out,17,14,29,4,0,121.42
+37,Bangladesh vs Nepal,Nepal,3,Anil Sah,Out,0,2,2,0,0,0.00
+37,Bangladesh vs Nepal,Nepal,4,Rohit Paudel,Out,1,6,8,0,0,16.66
+37,Bangladesh vs Nepal,Nepal,5,Sundeep Jora,Out,1,8,13,0,0,12.50
+37,Bangladesh vs Nepal,Nepal,6,Kushal Malla,Out,27,40,48,1,1,67.50
+37,Bangladesh vs Nepal,Nepal,7,Dipendra Singh Airee,Out,25,31,52,2,1,80.64
+37,Bangladesh vs Nepal,Nepal,8,Gulsan Jha,Out,0,4,5,0,0,0.00
+37,Bangladesh vs Nepal,Nepal,9,Sompal Kami,Out,0,2,6,0,0,0.00
+37,Bangladesh vs Nepal,Nepal,10,Sandeep Lamichhane,Not Out,0,0,3,0,0,-
+37,Bangladesh vs Nepal,Nepal,11,Abinash Bohara,Out,0,1,1,0,0,0.00
+38,Sri Lanka vs Netherlands,Sri Lanka,1,Pathum Nissanka,Out,0,2,2,0,0,0.00
+38,Sri Lanka vs Netherlands,Sri Lanka,2,Kusal Mendis,Out,46,29,49,5,0,158.62
+38,Sri Lanka vs Netherlands,Sri Lanka,3,Kamindu Mendis,Out,17,20,24,1,1,85.00
+38,Sri Lanka vs Netherlands,Sri Lanka,4,Dhananjaya de Silva,Out,34,26,38,3,1,130.76
+38,Sri Lanka vs Netherlands,Sri Lanka,5,Charith Asalanka,Out,46,21,31,1,5,219.04
+38,Sri Lanka vs Netherlands,Sri Lanka,6,Angelo Mathews,Not Out,30,15,27,1,2,200.00
+38,Sri Lanka vs Netherlands,Sri Lanka,7,Dasun Shanaka,Out,0,1,1,0,0,0.00
+38,Sri Lanka vs Netherlands,Sri Lanka,8,Wanindu Hasaranga,Not Out,20,6,10,1,2,333.33
+38,Sri Lanka vs Netherlands,Netherlands,1,Michael Levitt,Out,31,23,25,2,3,134.78
+38,Sri Lanka vs Netherlands,Netherlands,2,Max ODowd,Out,11,8,20,0,1,137.50
+38,Sri Lanka vs Netherlands,Netherlands,3,Vikramjit Singh,Out,7,10,12,0,0,70.00
+38,Sri Lanka vs Netherlands,Netherlands,4,Sybrand Engelbrecht,Out,11,9,12,0,1,122.22
+38,Sri Lanka vs Netherlands,Netherlands,5,Scott Edwards,Out,31,24,40,2,1,129.16
+38,Sri Lanka vs Netherlands,Netherlands,6,Bas de Leede,Out,3,5,4,0,0,60.00
+38,Sri Lanka vs Netherlands,Netherlands,7,Logan van Beek,Out,0,1,1,0,0,0.00
+38,Sri Lanka vs Netherlands,Netherlands,8,Tim Pringle,Out,2,4,7,0,0,50.00
+38,Sri Lanka vs Netherlands,Netherlands,9,Aryan Dutt,Out,10,8,11,1,0,125.00
+38,Sri Lanka vs Netherlands,Netherlands,10,Paul van Meekeren,Out,3,8,11,0,0,37.50
+38,Sri Lanka vs Netherlands,Netherlands,11,Vivian Kingma,Not Out,1,1,2,0,0,100.00
+39,PNG vs New Zealand,Papua New Guinea,1,Tony Ura,Out,1,2,6,0,0,50.00
+39,PNG vs New Zealand,Papua New Guinea,2,Assad Vala,Out,6,16,19,1,0,37.50
+39,PNG vs New Zealand,Papua New Guinea,3,Charles Amini,Out,17,25,40,2,0,68.00
+39,PNG vs New Zealand,Papua New Guinea,4,Sese Bau,Out,12,27,32,1,0,44.44
+39,PNG vs New Zealand,Papua New Guinea,5,Hiri Hiri,Out,7,11,16,1,0,63.63
+39,PNG vs New Zealand,Papua New Guinea,6,Chad Soper,Out,1,6,4,0,0,16.66
+39,PNG vs New Zealand,Papua New Guinea,7,Kiplin Doriga,Out,5,7,14,1,0,71.42
+39,PNG vs New Zealand,Papua New Guinea,8,Norman Vanua,Out,14,13,15,1,1,107.69
+39,PNG vs New Zealand,Papua New Guinea,9,Alei Nao,Out,3,7,14,0,0,42.85
+39,PNG vs New Zealand,Papua New Guinea,10,Kabua Morea,Out,0,3,3,0,0,0.00
+39,PNG vs New Zealand,Papua New Guinea,11,Semo Kamea,Not Out,1,1,1,0,0,100.00
+39,PNG vs New Zealand,New Zealand,1,Finn Allen,Out,0,2,3,0,0,0.00
+39,PNG vs New Zealand,New Zealand,2,Devon Conway,Out,35,32,45,2,3,109.37
+39,PNG vs New Zealand,New Zealand,3,Rachin Ravindra,Out,6,11,15,0,0,54.54
+39,PNG vs New Zealand,New Zealand,4,Kane Williamson,Not Out,18,17,38,2,0,105.88
+39,PNG vs New Zealand,New Zealand,5,Daryl Mitchell,Not Out,19,12,13,3,0,158.33
+40,West Indies vs Afghanistan,West Indies,1,Brandon King,Out,7,6,9,1,0,116.66
+40,West Indies vs Afghanistan,West Indies,2,Johnson Charles,Out,43,27,43,8,0,159.25
+40,West Indies vs Afghanistan,West Indies,3,Nicholas Pooran,Out,98,53,86,6,8,184.90
+40,West Indies vs Afghanistan,West Indies,4,Shai Hope,Out,25,17,14,0,2,147.05
+40,West Indies vs Afghanistan,West Indies,5,Rovman Powell,Out,26,15,28,1,2,173.33
+40,West Indies vs Afghanistan,West Indies,6,Andre Russell,Not Out,3,3,9,0,0,100.00
+40,West Indies vs Afghanistan,West Indies,7,Sherfane Rutherford,Not Out,1,1,1,0,0,100.00
+40,West Indies vs Afghanistan,Afghanistan,1,Rahmanullah Gurbaz,Out,0,3,1,0,0,0.00
+40,West Indies vs Afghanistan,Afghanistan,2,Ibrahim Zadran,Out,38,28,34,5,1,135.71
+40,West Indies vs Afghanistan,Afghanistan,3,Gulbadin Naib,Out,7,10,26,1,0,70.00
+40,West Indies vs Afghanistan,Afghanistan,4,Azmatullah Omarzai,Out,23,19,26,1,1,121.05
+40,West Indies vs Afghanistan,Afghanistan,5,Najibullah Zadran,Out,0,2,1,0,0,0.00
+40,West Indies vs Afghanistan,Afghanistan,6,Mohammad Nabi,Out,1,4,4,0,0,25.00
+40,West Indies vs Afghanistan,Afghanistan,7,Karim Janat,Out,14,9,14,0,1,155.55
+40,West Indies vs Afghanistan,Afghanistan,8,Rashid Khan,Out,18,11,18,2,1,163.63
+40,West Indies vs Afghanistan,Afghanistan,9,Noor Ahmad,Out,2,4,6,0,0,50.00
+40,West Indies vs Afghanistan,Afghanistan,10,NaveenulHaq,Out,4,6,5,1,0,66.66
+40,West Indies vs Afghanistan,Afghanistan,11,Fazalhaq Farooqi,Not Out,0,2,3,0,0,0.00
+41,South Africa vs USA,South Africa,1,Quinton de Kock,Out,74,40,54,7,5,185.00
+41,South Africa vs USA,South Africa,2,Reeza Hendricks,Out,11,11,12,0,1,100.00
+41,South Africa vs USA,South Africa,3,Aiden Markram,Out,46,32,52,4,1,143.75
+41,South Africa vs USA,South Africa,4,David Miller,Out,0,1,1,0,0,0.00
+41,South Africa vs USA,South Africa,5,Heinrich Klaasen,Not Out,36,22,35,0,3,163.63
+41,South Africa vs USA,South Africa,6,Tristan Stubbs,Not Out,20,16,24,2,0,125.00
+41,South Africa vs USA,United States Of America,1,Steven Taylor,Out,24,14,16,4,1,171.42
+41,South Africa vs USA,United States Of America,2,Andries Gous,Not Out,80,47,88,5,5,170.21
+41,South Africa vs USA,United States Of America,3,Nitish Kumar,Out,8,6,9,0,1,133.33
+41,South Africa vs USA,United States Of America,4,Aaron Jones,Out,0,5,4,0,0,0.00
+41,South Africa vs USA,United States Of America,5,Corey Anderson,Out,12,12,10,0,1,100.00
+41,South Africa vs USA,United States Of America,6,Shayan Jahangir,Out,3,9,51,0,0,33.33
+41,South Africa vs USA,United States Of America,7,Harmeet Singh,Out,38,22,30,2,3,172.72
+41,South Africa vs USA,United States Of America,8,Jasdeep Singh,Not Out,2,6,7,0,0,33.33
+42,West Indies vs England,West Indies,1,Brandon King,Out,23,13,23,3,1,176.92
+42,West Indies vs England,West Indies,2,Johnson Charles,Out,38,34,55,4,1,111.76
+42,West Indies vs England,West Indies,3,Nicholas Pooran,Out,36,32,53,4,1,112.50
+42,West Indies vs England,West Indies,4,Rovman Powell,Out,36,17,18,0,5,211.76
+42,West Indies vs England,West Indies,5,Andre Russell,Out,1,2,7,0,0,50.00
+42,West Indies vs England,West Indies,6,Sherfane Rutherford,Not Out,28,15,20,1,2,186.66
+42,West Indies vs England,West Indies,7,Romario Shepherd,Not Out,5,7,16,1,0,71.42
+42,West Indies vs England,England,1,Phil Salt,Not Out,87,47,79,7,5,185.10
+42,West Indies vs England,England,2,Jos Buttler,Out,25,22,34,2,0,113.63
+42,West Indies vs England,England,3,Moeen Ali,Out,13,10,9,2,0,130.00
+42,West Indies vs England,England,4,Jonny Bairstow,Not Out,48,26,32,5,2,184.61
+43,India vs Afghanistan,India,1,Rohit Sharma,Out,8,13,13,1,0,61.53
+43,India vs Afghanistan,India,2,Virat Kohli,Out,24,24,41,0,1,100.00
+43,India vs Afghanistan,India,3,Rishabh Pant,Out,20,11,20,4,0,181.81
+43,India vs Afghanistan,India,4,Suryakumar Yadav,Out,53,28,51,5,3,189.28
+43,India vs Afghanistan,India,5,Shivam Dube,Out,10,7,11,0,1,142.85
+43,India vs Afghanistan,India,6,Hardik Pandya,Out,32,24,40,3,2,133.33
+43,India vs Afghanistan,India,7,Ravindra Jadeja,Out,7,5,11,1,0,140.00
+43,India vs Afghanistan,India,8,Axar Patel,Out,12,6,11,2,0,200.00
+43,India vs Afghanistan,India,9,Arshdeep Singh,Not Out,2,2,8,0,0,100.00
+43,India vs Afghanistan,Afghanistan,1,Rahmanullah Gurbaz,Out,11,8,7,1,1,137.50
+43,India vs Afghanistan,Afghanistan,2,Hazratullah Zazai,Out,2,4,20,0,0,50.00
+43,India vs Afghanistan,Afghanistan,3,Ibrahim Zadran,Out,8,11,9,1,0,72.72
+43,India vs Afghanistan,Afghanistan,4,Gulbadin Naib,Out,17,21,25,1,1,80.95
+43,India vs Afghanistan,Afghanistan,5,Azmatullah Omarzai,Out,26,20,26,2,1,130.00
+43,India vs Afghanistan,Afghanistan,6,Najibullah Zadran,Out,19,17,22,0,2,111.76
+43,India vs Afghanistan,Afghanistan,7,Mohammad Nabi,Out,14,14,24,0,1,100.00
+43,India vs Afghanistan,Afghanistan,8,Rashid Khan,Out,2,6,11,0,0,33.33
+43,India vs Afghanistan,Afghanistan,9,Noor Ahmad,Out,12,18,19,1,1,66.66
+43,India vs Afghanistan,Afghanistan,10,NaveenulHaq,Out,0,1,1,0,0,0.00
+43,India vs Afghanistan,Afghanistan,11,Fazalhaq Farooqi,Not Out,4,1,11,1,0,400.00
+44,Bangladesh vs Australia,Bangladesh,1,Tanzid Hasan,Out,0,3,2,0,0,0.00
+44,Bangladesh vs Australia,Bangladesh,2,Litton Das,Out,16,25,42,2,0,64.00
+44,Bangladesh vs Australia,Bangladesh,3,Najmul Hossain Shanto,Out,41,36,57,5,1,113.88
+44,Bangladesh vs Australia,Bangladesh,4,Rishad Hossain,Out,2,4,5,0,0,50.00
+44,Bangladesh vs Australia,Bangladesh,5,Towhid Hridoy,Out,40,28,40,2,2,142.85
+44,Bangladesh vs Australia,Bangladesh,6,Shakib Al Hasan,Out,8,10,27,0,0,80.00
+44,Bangladesh vs Australia,Bangladesh,7,Mahmudullah,Out,2,3,7,0,0,66.66
+44,Bangladesh vs Australia,Bangladesh,8,Mahedi Hasan,Out,0,1,1,0,0,0.00
+44,Bangladesh vs Australia,Bangladesh,9,Taskin Ahmed,Not Out,13,7,9,1,0,185.71
+44,Bangladesh vs Australia,Bangladesh,10,Tanzim Hasan Sakib,Not Out,4,3,3,0,0,133.33
+44,Bangladesh vs Australia,Australia,1,David Warner,Not Out,53,35,52,5,3,151.42
+44,Bangladesh vs Australia,Australia,2,Travis Head,Out,31,21,30,3,2,147.61
+44,Bangladesh vs Australia,Australia,3,Mitchell Marsh,Out,1,6,8,0,0,16.66
+44,Bangladesh vs Australia,Australia,4,Glenn Maxwell,Not Out,14,6,12,1,1,233.33
+45,South Africa vs England,South Africa,1,Reeza Hendricks,Out,19,25,41,1,0,76.00
+45,South Africa vs England,South Africa,2,Quinton de Kock,Out,65,38,50,4,4,171.05
+45,South Africa vs England,South Africa,3,Heinrich Klaasen,Out,8,13,21,1,0,61.53
+45,South Africa vs England,South Africa,4,David Miller,Out,43,28,40,4,2,153.57
+45,South Africa vs England,South Africa,5,Aiden Markram,Out,1,2,4,0,0,50.00
+45,South Africa vs England,South Africa,6,Tristan Stubbs,Not Out,12,11,28,1,0,109.09
+45,South Africa vs England,South Africa,7,Marco Jansen,Out,0,1,1,0,0,0.00
+45,South Africa vs England,South Africa,8,Keshav Maharaj,Not Out,5,2,3,1,0,250.00
+45,South Africa vs England,England,1,Phil Salt,Out,11,8,8,1,1,137.50
+45,South Africa vs England,England,2,Jos Buttler,Out,17,20,38,1,0,85.00
+45,South Africa vs England,England,3,Jonny Bairstow,Out,16,20,20,1,0,80.00
+45,South Africa vs England,England,4,Moeen Ali,Out,9,10,15,0,0,90.00
+45,South Africa vs England,England,5,Harry Brook,Out,53,37,50,7,0,143.24
+45,South Africa vs England,England,6,Liam Livingstone,Out,33,17,33,3,2,194.11
+45,South Africa vs England,England,7,Sam Curran,Not Out,10,7,14,1,0,142.85
+45,South Africa vs England,England,8,Jofra Archer,Not Out,1,2,4,0,0,50.00
+46,West Indies vs USA,United States Of America,1,Steven Taylor,Out,2,7,5,0,0,28.57
+46,West Indies vs USA,United States Of America,2,Andries Gous,Out,29,16,37,3,1,181.25
+46,West Indies vs USA,United States Of America,3,Nitish Kumar,Out,20,19,23,2,0,105.26
+46,West Indies vs USA,United States Of America,4,Aaron Jones,Out,11,11,12,0,1,100.00
+46,West Indies vs USA,United States Of America,5,Corey Anderson,Out,7,15,23,0,0,46.66
+46,West Indies vs USA,United States Of America,6,Milind Kumar,Out,19,21,35,1,0,90.47
+46,West Indies vs USA,United States Of America,7,Harmeet Singh,Out,0,1,1,0,0,0.00
+46,West Indies vs USA,United States Of America,8,Shadley van Schalkwyk,Out,18,17,17,3,0,105.88
+46,West Indies vs USA,United States Of America,9,Nosthush Kenjige,Out,1,3,8,0,0,33.33
+46,West Indies vs USA,United States Of America,10,Ali Khan,Not Out,14,6,11,1,1,233.33
+46,West Indies vs USA,United States Of America,11,Saurabh Netravalkar,Out,0,4,4,0,0,0.00
+46,West Indies vs USA,West Indies,1,Shai Hope,Not Out,82,39,,4,8,210.25
+46,West Indies vs USA,West Indies,2,Johnson Charles,Out,15,14,,2,0,107.14
+46,West Indies vs USA,West Indies,3,Nicholas Pooran,Not Out,27,12,,1,3,225.00
+47,India vs Bangladesh,India,1,Rohit Sharma,Out,23,11,14,3,1,209.09
+47,India vs Bangladesh,India,2,Virat Kohli,Out,37,28,34,1,3,132.14
+47,India vs Bangladesh,India,3,Rishabh Pant,Out,36,24,36,4,2,150.00
+47,India vs Bangladesh,India,4,Suryakumar Yadav,Out,6,2,2,0,1,300.00
+47,India vs Bangladesh,India,5,Shivam Dube,Out,34,24,38,0,3,141.66
+47,India vs Bangladesh,India,6,Hardik Pandya,Not Out,50,27,38,4,3,185.18
+47,India vs Bangladesh,India,7,Axar Patel,Not Out,3,5,13,0,0,60.00
+47,India vs Bangladesh,Bangladesh,1,Litton Das,Out,13,10,20,1,1,130.00
+47,India vs Bangladesh,Bangladesh,2,Tanzid Hasan,Out,29,31,41,4,0,93.54
+47,India vs Bangladesh,Bangladesh,3,Najmul Hossain Shanto,Out,40,32,46,1,3,125.00
+47,India vs Bangladesh,Bangladesh,4,Towhid Hridoy,Out,4,6,6,0,0,66.66
+47,India vs Bangladesh,Bangladesh,5,Shakib Al Hasan,Out,11,7,7,1,1,157.14
+47,India vs Bangladesh,Bangladesh,6,Mahmudullah,Out,13,15,30,1,0,86.66
+47,India vs Bangladesh,Bangladesh,7,Jaker Ali,Out,1,4,3,0,0,25.00
+47,India vs Bangladesh,Bangladesh,8,Rishad Hossain,Out,24,10,9,1,3,240.00
+47,India vs Bangladesh,Bangladesh,9,Mahedi Hasan,Not Out,5,4,7,1,0,125.00
+47,India vs Bangladesh,Bangladesh,10,Tanzim Hasan Sakib,Not Out,1,1,1,0,0,100.00
+48,Afghanistan vs Australia,Afghanistan,1,Rahmanullah Gurbaz,Out,60,49,66,4,4,122.44
+48,Afghanistan vs Australia,Afghanistan,2,Ibrahim Zadran,Out,51,48,73,6,0,106.25
+48,Afghanistan vs Australia,Afghanistan,3,Azmatullah Omarzai,Out,2,3,2,0,0,66.66
+48,Afghanistan vs Australia,Afghanistan,4,Karim Janat,Out,13,9,13,0,1,144.44
+48,Afghanistan vs Australia,Afghanistan,5,Rashid Khan,Out,2,5,4,0,0,40.00
+48,Afghanistan vs Australia,Afghanistan,6,Mohammad Nabi,Not Out,10,4,10,2,0,250.00
+48,Afghanistan vs Australia,Afghanistan,7,Gulbadin Naib,Out,0,1,12,0,0,0.00
+48,Afghanistan vs Australia,Afghanistan,8,Nangeyalia Kharote,Not Out,1,1,2,0,0,100.00
+48,Afghanistan vs Australia,Australia,1,Travis Head,Out,0,3,2,0,0,0.00
+48,Afghanistan vs Australia,Australia,2,David Warner,Out,3,8,27,0,0,37.50
+48,Afghanistan vs Australia,Australia,3,Mitchell Marsh,Out,12,9,9,2,0,133.33
+48,Afghanistan vs Australia,Australia,4,Glenn Maxwell,Out,59,41,58,6,3,143.90
+48,Afghanistan vs Australia,Australia,5,Marcus Stoinis,Out,11,17,20,1,0,64.70
+48,Afghanistan vs Australia,Australia,6,Tim David,Out,2,4,9,0,0,50.00
+48,Afghanistan vs Australia,Australia,7,Matthew Wade,Out,5,7,16,0,0,71.42
+48,Afghanistan vs Australia,Australia,8,Pat Cummins,Out,3,9,9,0,0,33.33
+48,Afghanistan vs Australia,Australia,9,Ashton Agar,Out,2,5,10,0,0,40.00
+48,Afghanistan vs Australia,Australia,10,Adam Zampa,Out,9,7,15,1,0,128.57
+48,Afghanistan vs Australia,Australia,11,Josh Hazlewood,Not Out,5,7,10,0,0,71.42
+49,USA vs England,United States Of America,1,Steven Taylor,Out,12,13,25,2,0,92.30
+49,USA vs England,United States Of America,2,Andries Gous,Out,8,5,4,0,1,160.00
+49,USA vs England,United States Of America,3,Nitish Kumar,Out,30,24,38,1,2,125.00
+49,USA vs England,United States Of America,4,Aaron Jones,Out,10,16,10,2,0,62.50
+49,USA vs England,United States Of America,5,Corey Anderson,Out,29,28,43,0,1,103.57
+49,USA vs England,United States Of America,6,Milind Kumar,Out,4,6,13,0,0,66.66
+49,USA vs England,United States Of America,7,Harmeet Singh,Out,21,17,19,2,1,123.52
+49,USA vs England,United States Of America,8,Shadley van Schalkwyk,Not Out,0,0,7,0,0,-
+49,USA vs England,United States Of America,9,Ali Khan,Out,0,2,1,0,0,0.00
+49,USA vs England,United States Of America,10,Nosthush Kenjige,Out,0,1,1,0,0,0.00
+49,USA vs England,United States Of America,11,Saurabh Netravalkar,Out,0,1,1,0,0,0.00
+49,USA vs England,England,1,Phil Salt,Not Out,25,21,44,2,0,119.04
+49,USA vs England,England,2,Jos Buttler,Not Out,83,38,44,6,7,218.42
+50,West Indies vs South Africa,West Indies,1,Kyle Mayers,Out,35,34,53,3,2,102.94
+50,West Indies vs South Africa,West Indies,2,Shai Hope,Out,0,1,3,0,0,0.00
+50,West Indies vs South Africa,West Indies,3,Nicholas Pooran,Out,1,3,4,0,0,33.33
+50,West Indies vs South Africa,West Indies,4,Roston Chase,Out,52,42,59,3,2,123.80
+50,West Indies vs South Africa,West Indies,5,Rovman Powell,Out,1,2,2,0,0,50.00
+50,West Indies vs South Africa,West Indies,6,Sherfane Rutherford,Out,0,4,5,0,0,0.00
+50,West Indies vs South Africa,West Indies,7,Andre Russell,Out,15,9,15,0,2,166.66
+50,West Indies vs South Africa,West Indies,8,Akeal Hosein,Out,6,11,12,1,0,54.54
+50,West Indies vs South Africa,West Indies,9,Alzarri Joseph,Not Out,11,7,14,0,1,157.14
+50,West Indies vs South Africa,West Indies,10,Gudakesh Motie,Not Out,4,7,10,1,0,57.14
+50,West Indies vs South Africa,South Africa,1,Quinton de Kock,Out,12,7,10,3,0,171.42
+50,West Indies vs South Africa,South Africa,2,Reeza Hendricks,Out,0,1,5,0,0,0.00
+50,West Indies vs South Africa,South Africa,3,Aiden Markram,Out,18,15,20,2,0,120.00
+50,West Indies vs South Africa,South Africa,4,Tristan Stubbs,Out,29,27,55,4,0,107.40
+50,West Indies vs South Africa,South Africa,5,Heinrich Klaasen,Out,22,10,13,3,1,220.00
+50,West Indies vs South Africa,South Africa,6,David Miller,Out,4,14,18,0,0,28.57
+50,West Indies vs South Africa,South Africa,7,Marco Jansen,Not Out,21,14,22,1,1,150.00
+50,West Indies vs South Africa,South Africa,8,Keshav Maharaj,Out,2,6,9,0,0,33.33
+50,West Indies vs South Africa,South Africa,9,Kagiso Rabada,Not Out,5,3,5,1,0,166.66
+51,India vs Australia,India,1,Rohit Sharma,Out,92,41,59,7,8,224.39
+51,India vs Australia,India,2,Virat Kohli,Out,0,5,8,0,0,0.00
+51,India vs Australia,India,3,Rishabh Pant,Out,15,14,33,1,1,107.14
+51,India vs Australia,India,4,Suryakumar Yadav,Out,31,16,29,3,2,193.75
+51,India vs Australia,India,5,Shivam Dube,Out,28,22,33,2,1,127.27
+51,India vs Australia,India,6,Hardik Pandya,Not Out,27,17,24,1,2,158.82
+51,India vs Australia,India,7,Ravindra Jadeja,Not Out,9,5,4,0,1,180.00
+51,India vs Australia,Australia,1,David Warner,Out,6,6,5,1,0,100.00
+51,India vs Australia,Australia,2,Travis Head,Out,76,43,76,9,4,176.74
+51,India vs Australia,Australia,3,Mitchell Marsh,Out,37,28,38,3,2,132.14
+51,India vs Australia,Australia,4,Glenn Maxwell,Out,20,12,15,2,1,166.66
+51,India vs Australia,Australia,5,Marcus Stoinis,Out,2,4,4,0,0,50.00
+51,India vs Australia,Australia,6,Tim David,Out,15,11,22,1,1,136.36
+51,India vs Australia,Australia,7,Matthew Wade,Out,1,2,5,0,0,50.00
+51,India vs Australia,Australia,8,Pat Cummins,Not Out,11,7,15,0,1,157.14
+51,India vs Australia,Australia,9,Mitchell Starc,Not Out,4,7,9,0,0,57.14
+52,Afghanistan vs Bangladesh,Afghanistan,1,Rahmanullah Gurbaz,Out,43,55,69,3,1,78.18
+52,Afghanistan vs Bangladesh,Afghanistan,2,Ibrahim Zadran,Out,18,29,46,1,0,62.06
+52,Afghanistan vs Bangladesh,Afghanistan,3,Azmatullah Omarzai,Out,10,12,20,0,0,83.33
+52,Afghanistan vs Bangladesh,Afghanistan,4,Gulbadin Naib,Out,4,3,4,1,0,133.33
+52,Afghanistan vs Bangladesh,Afghanistan,5,Mohammad Nabi,Out,1,5,6,0,0,20.00
+52,Afghanistan vs Bangladesh,Afghanistan,6,Karim Janat,Not Out,7,6,15,1,0,116.66
+52,Afghanistan vs Bangladesh,Afghanistan,7,Rashid Khan,Not Out,19,10,10,0,3,190.00
+52,Afghanistan vs Bangladesh,Bangladesh,1,Litton Das,Not Out,54,49,95,5,1,110.20
+52,Afghanistan vs Bangladesh,Bangladesh,2,Tanzid Hasan,Out,0,3,12,0,0,0.00
+52,Afghanistan vs Bangladesh,Bangladesh,3,Najmul Hossain Shanto,Out,5,5,7,1,0,100.00
+52,Afghanistan vs Bangladesh,Bangladesh,4,Shakib Al Hasan,Out,0,1,1,0,0,0.00
+52,Afghanistan vs Bangladesh,Bangladesh,5,Soumya Sarkar,Out,10,10,18,1,0,100.00
+52,Afghanistan vs Bangladesh,Bangladesh,6,Towhid Hridoy,Out,14,9,7,2,0,155.55
+52,Afghanistan vs Bangladesh,Bangladesh,7,Mahmudullah,Out,6,9,8,1,0,66.66
+52,Afghanistan vs Bangladesh,Bangladesh,8,Rishad Hossain,Out,0,1,1,0,0,0.00
+52,Afghanistan vs Bangladesh,Bangladesh,9,Tanzim Hasan Sakib,Out,3,10,13,0,0,30.00
+52,Afghanistan vs Bangladesh,Bangladesh,10,Taskin Ahmed,Out,2,9,31,0,0,22.22
+52,Afghanistan vs Bangladesh,Bangladesh,11,Mustafizur Rahman,Out,0,1,1,0,0,0.00
+53,Afghanistan vs South Africa,Afghanistan,1,Rahmanullah Gurbaz,Out,0,3,5,0,0,0.00
+53,Afghanistan vs South Africa,Afghanistan,2,Ibrahim Zadran,Out,2,5,15,0,0,40.00
+53,Afghanistan vs South Africa,Afghanistan,3,Gulbadin Naib,Out,9,8,6,2,0,112.50
+53,Afghanistan vs South Africa,Afghanistan,4,Azmatullah Omarzai,Out,10,12,18,2,0,83.33
+53,Afghanistan vs South Africa,Afghanistan,5,Mohammad Nabi,Out,0,3,1,0,0,0.00
+53,Afghanistan vs South Africa,Afghanistan,6,Nangeyalia Kharote,Out,2,7,5,0,0,28.57
+53,Afghanistan vs South Africa,Afghanistan,7,Karim Janat,Out,8,13,22,1,0,61.53
+53,Afghanistan vs South Africa,Afghanistan,8,Rashid Khan,Out,8,8,20,2,0,100.00
+53,Afghanistan vs South Africa,Afghanistan,9,Noor Ahmad,Out,0,2,2,0,0,0.00
+53,Afghanistan vs South Africa,Afghanistan,10,NaveenulHaq,Out,2,8,9,0,0,25.00
+53,Afghanistan vs South Africa,Afghanistan,11,Fazalhaq Farooqi,Not Out,2,2,6,0,0,100.00
+53,Afghanistan vs South Africa,South Africa,1,Quinton de Kock,Out,5,8,7,1,0,62.50
+53,Afghanistan vs South Africa,South Africa,2,Reeza Hendricks,Not Out,29,25,44,3,1,116.00
+53,Afghanistan vs South Africa,South Africa,3,Aiden Markram,Not Out,23,21,35,4,0,109.52
+54,India vs England,India,1,Rohit Sharma,Out,57,39,57,6,2,146.15
+54,India vs England,India,2,Virat Kohli,Out,9,9,10,0,1,100.00
+54,India vs England,India,3,Rishabh Pant,Out,4,6,12,0,0,66.66
+54,India vs England,India,4,Suryakumar Yadav,Out,47,36,40,4,2,130.55
+54,India vs England,India,5,Hardik Pandya,Out,23,13,17,1,2,176.92
+54,India vs England,India,6,Ravindra Jadeja,Not Out,17,9,24,2,0,188.88
+54,India vs England,India,7,Shivam Dube,Out,0,1,1,0,0,0.00
+54,India vs England,India,8,Axar Patel,Out,10,6,10,0,1,166.66
+54,India vs England,India,9,Arshdeep Singh,Not Out,1,1,1,0,0,100.00
+54,India vs England,England,1,Phil Salt,Out,5,8,20,0,0,62.50
+54,India vs England,England,2,Jos Buttler,Out,23,15,13,4,0,153.33
+54,India vs England,England,3,Moeen Ali,Out,8,10,18,0,0,80.00
+54,India vs England,England,4,Jonny Bairstow,Out,0,3,2,0,0,0.00
+54,India vs England,England,5,Harry Brook,Out,25,19,21,3,0,131.57
+54,India vs England,England,6,Sam Curran,Out,2,4,4,0,0,50.00
+54,India vs England,England,7,Liam Livingstone,Out,11,16,24,0,0,68.75
+54,India vs England,England,8,Chris Jordan,Out,1,5,6,0,0,20.00
+54,India vs England,England,9,Jofra Archer,Out,21,15,17,1,2,140.00
+54,India vs England,England,10,Adil Rashid,Out,2,2,2,0,0,100.00
+54,India vs England,England,11,Reece Topley,Not Out,3,3,6,0,0,100.00
+55,India vs South Africa,India,1,Rohit Sharma,Out,9,5,7,2,0,180.00
+55,India vs South Africa,India,2,Virat Kohli,Out,76,59,87,6,2,128.81
+55,India vs South Africa,India,3,Rishabh Pant,Out,0,2,2,0,0,0.00
+55,India vs South Africa,India,4,Suryakumar Yadav,Out,3,4,9,0,0,75.00
+55,India vs South Africa,India,5,Axar Patel,Out,47,31,38,1,4,151.61
+55,India vs South Africa,India,6,Shivam Dube,Out,27,16,32,3,1,168.75
+55,India vs South Africa,India,7,Hardik Pandya,Not Out,5,2,7,1,0,250.00
+55,India vs South Africa,India,8,Ravindra Jadeja,Out,2,2,1,0,0,100.00
+55,India vs South Africa,South Africa,1,Reeza Hendricks,Out,4,5,6,1,0,80.00
+55,India vs South Africa,South Africa,2,Quinton de Kock,Out,39,31,54,4,1,125.80
+55,India vs South Africa,South Africa,3,Aiden Markram,Out,4,5,4,1,0,80.00
+55,India vs South Africa,South Africa,4,Tristan Stubbs,Out,31,21,24,3,1,147.61
+55,India vs South Africa,South Africa,5,Heinrich Klaasen,Out,52,27,33,2,5,192.59
+55,India vs South Africa,South Africa,6,David Miller,Out,21,17,37,1,1,123.52
+55,India vs South Africa,South Africa,7,Marco Jansen,Out,2,4,7,0,0,50.00
+55,India vs South Africa,South Africa,8,Keshav Maharaj,Not Out,2,7,18,0,0,28.57
+55,India vs South Africa,South Africa,9,Kagiso Rabada,Out,4,3,5,1,0,133.33
+55,India vs South Africa,South Africa,10,Anrich Nortje,Not Out,1,1,1,0,0,100.00
